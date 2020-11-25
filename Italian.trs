@@ -1,0 +1,2319 @@
+// AGS TRANSLATION SOURCE FILE
+// Format is alternating lines with original game text and replacement
+// text. If you don't want to translate a line, just leave the following
+// line blank. Lines starting with '//' are comments - DO NOT translate
+// them. Special characters such as [ and %%s symbolise things within the
+// game, so should be left in an appropriate place in the message.
+//
+// ** Translation settings are below
+// ** Leave them as "DEFAULT" to use the game settings
+//#NormalFont=DEFAULT
+//#SpeechFont=DEFAULT
+//#TextDirection=DEFAULT
+// ** NOT CHANGE THE EXISTING TEXT.
+Hast du zufällig meinen Kofferschlüssel gesehen?
+Hai visto la chiave della mia valigia?
+Wo zur Hölle ist meine ganze Unterwäsche hin!?
+Dove diavolo è tutta la mia biancheria intima!?
+Na warte! Das zahlst du mir noch heim!
+Te la farò pagare!
+Ey, Eierkopf!
+Ehi, Testa d'Uovo!
+Was gibts, Zimtzicke?
+Che c'è, stupida mucca?
+Ja klar. Ich hab ihn gut versteckt.
+Ma certo! L'ho nascosta in un posto sicuro.
+Und wo??
+Ma dove?
+Tja, das verrate ich dir nicht.
+Non te lo dirò mai.
+AAAAAAARG!
+AAAAAAARG!
+Hehehehe.
+Eheheheh.
+Im ganzen Haus verteilt.
+L'ho sparpagliata per tutta la casa.
+Viel Spaß beim Suchen.
+Buona caccia!
+Ist wie an Ostern, ne?
+Sarà come a Pasqua!
+Hehe.
+Eheh.
+Jaja, aber jetzt verzieh dich erstmal wieder!
+OK, ma ora esci dalla mia camera!
+Ich muss noch für meine Physik-Klausur lernen.
+Devo studiare per il mio compito di Fisica.
+Sonst schreib ich noch eine 1- !
+Altrimenti prenderò un A- !
+Die ist abgesperrt.
+È chiuso.
+Mit dem Schlüssel geht es nicht.
+Quella chiave non ci entra.
+Die Tür zum Schulgang.
+La porta per la strada verso la scuola.
+Da geht es zum Flur.
+È la porta per il corridoio.
+Da geht es ins Zimmer von meinem Bruder, dem nervigen Eierkopf.
+È la porta per la stanza di mio fratello, il fastidioso Testa d'Uovo.
+Da geht es in mein wunderhübsches Zimmer.
+È la porta della mia incantevole camera.
+Da geht es zum Bad.
+È la porta del bagno.
+Da geht es zum Schlafzimmer.
+È la porta per la camera da letto.
+Da geht es zum Wohnzimmer.
+È la porta del soggiorno.
+Da geht es zur Bibliothek.
+È la porta della biblioteca.
+Da geht es zur Kammer.
+È la porta del ripostiglio.
+Da geht es zum Esszimmer.
+È la porta della sala da pranzo.
+Da geht es zur Küche.
+È la porta della cucina.
+Ich hab noch nicht alle Sachen gepackt!
+Non ho ancora trovato tutto quanto!
+Da geht es nach draussen.
+È la porta che conduce all'esterno.
+Da geht es rein.
+È la porta della casa.
+Da geht es zum Keller.
+È la porta della cantina.
+Damit geht es nicht.
+Non funziona.
+Gehe zu %s
+Vai verso %s
+Schau an %s
+Esamina %s
+Rede mit %s
+Parla a %s
+Gib !s an %s
+Dai !s a %s
+Gib %s
+Dai %s
+Nimm %s
+Raccogli %s
+Benutze !s mit %s
+Usa !s con %s
+Benutze %s
+Usa %s
+Öffne %s
+Apri %s
+Schließe %s
+Chiudi %s
+Drücke %s
+Spingi %s
+Ziehe %s
+Tira %s
+Wechsle zu %s
+Passa a %s
+!s
+!s
+%s
+%s
+%d. 
+%d.
+>
+>
+$
+$
+%s>%c
+%s>%c
+>n
+>n
+JjNn
+SsNn
+a_button_give 5 802 803 Dd
+a_button_give 0 825 826 Qq
+a_button_pick_up 2 800 801 Ee
+a_button_pick_up 1 831 832 Ww
+a_button_use 1 794 795 Ww
+a_button_use 2 839 840 Ee
+a_button_open 3 790 791 Aa
+a_button_open 3 829 830 Aa
+a_button_look_at 0 788 789 Qq
+a_button_look_at 4 827 828 Ss
+a_button_push 7 798 799 Xx
+a_button_push 5 835 836 Dd
+a_button_close 4 796 797 Ss
+a_button_close 6 823 824 Yy
+a_button_talk_to 8 804 805 Cc
+a_button_talk_to 7 837 838 Xx
+a_button_pull 6 792 793 Yy
+a_button_pull 8 833 834 Cc
+Ach nö, will heute keine Türen schleppen.
+Oh no! Non ho voglia di trascinarmi dietro le porte, oggi.
+Man kann auch eine Tür 'öffnen' oder 'schließen'.
+Potrebbe essere utile "aprire" o "chiudere" una porta.
+Das ist doch zu.
+Lo è già!
+Das ist schon offen.
+Lo è già!
+Das ist schon zu.
+Lo è già!
+Besser nicht.
+Meglio di no.
+Das klappt so überhaupt gar nicht.
+Non funziona.
+Ich sehe nichts besonderes.
+Non c'è niente di speciale.
+Da bewegt sich nichts.
+Non si muove nulla.
+Das kann ich nicht mitnehmen.
+Non si riesce a raccogliere.
+Es scheint nicht aufzugehen.
+Non si apre.
+Damit möchte ich nicht reden.
+Non ho voglia di parlarci.
+Das klappt so nicht.
+Non funziona.
+Ich möchte das nicht kaputt ätzen.
+Non voglio che si corroda.
+Das muss nicht desinfiziert werden.
+Non ha bisogno del disinfettante.
+Der Kuli schreibt nicht mehr.
+La penna non scrive proprio.
+Das hab ich schon bei mir. Ich kann es nicht noch einmal aufnehmen.
+Ce l'ho già: non mi serve prenderlo di nuovo.
+Wozu?
+Per farne cosa?
+Es bewegt sich nicht.
+Non si muove.
+Das lässt sich nicht öffnen.
+Non si può aprire.
+Das lässt sich nicht schließen.
+Non si può chiudere.
+Das ist jemand anderes.
+È una persona differente.
+Zu schwer.
+È troppo pesante.
+Das bringt nichts.
+Non funziona.
+Schließen? Gehts noch?
+Apri? Ma mi stai prendendo in giro?
+Öffnen? Gehts noch?
+Chiudi? Ma mi stai prendendo in giro?
+Benutzen? Gehts noch?
+Usa? Ma mi stai prendendo in giro?
+Eine Fernbedienung.
+Un telecomando.
+Wozu? Die Batterien sind sowieso leer.
+Per quale motivo? Le batterie sono comunque scariche.
+Ein Lukenöffner.
+Un apribotola.
+Bernards Daunenkissen.
+Il cuscino di Bernard.
+Gemütlich.
+Soffice.
+Der Schlüssel für meinen Koffer.
+La chiave della mia valigia.
+Mein kleiner Bruder.
+Il mio piccolo fratellino.
+Voll der Nerd.
+Che razza di secchione!
+Irgendeine rote Frucht.
+Della frutta rossa.
+Keine Ahnung was für eine.
+Non ho idea di che tipo sia.
+Ist auch egal. Die sehen eh alle gleich aus.
+Non importa. Sembra tutta uguale.
+Ich mag lila.
+Mi piace il lilla.
+Ich mag das Kissen.
+Mi piace il cuscino.
+Es ist kuschelig weich.
+È molto comodo.
+Und...es ist lila!
+E... è lilla!
+Das ist mein Lieblingstanga.
+È il mio tanga preferito.
+Ich ess das nicht. Ich bin auf Diät.
+Non voglio mangiarlo. Sono a dieta.
+Hmmjam, leckere Kondome.
+Hmmm... slurp... contraccettivi saporiti.
+Gewöhnliche, langweilige Kondome.
+Noiosi contraccettivi comuni.
+Fruchtig lecker.
+Fruttati e gustosi.
+Ein Glas mit rotem Fruchtmus.
+Un vasetto con polpa di frutta rossa.
+Ein leeres Jogurtglas.
+Un vasetto di yogurt vuoto.
+So ist die Zahnbürste schon gleich viel angenehmer.
+Così lo spazzolino è molto più gradevole.
+Meine Zahnbürste.
+Il mio spazzolino da denti.
+Sie hat keine Borsten mehr.
+Non ha più le setole.
+Eine Flasche Desinfektionsmittel.
+Un flacone di disinfettante.
+Wenns mal wieder richtig schmutzig war.
+Elimina qualunque germe batterico.
+Mein weißer BH.
+Il mio reggiseno bianco.
+Der BH hat sich beim Waschen verfärbt.
+Il reggiseno ha cambiato colore durante il lavaggio.
+So mag ich ihn.
+Adesso mi piace di più.
+Das sind 2 Batterien.
+Sono 2 batterie.
+Die Batterien passen nicht in die Fernbedienung.
+Le batterie non entrano nel telecomando.
+Mein flauschiges, rotes Handtuch.
+Il mio soffice asciugamano rosso.
+Im Bowling war ich schon immer eine Niete.
+Sono sempre stata un vero disastro al bowling.
+Nur Bernard ist noch schlechter.
+Solo Bernard sa fare di peggio.
+Mein schwarzer BH mit sexy Spitzen.
+Il mio sexy reggiseno di pizzo nero.
+Der Lappen ist klitschenass.
+Lo strofinaccio è molto bagnato.
+Den braucht man, wenn mal wieder die Spülmaschine kaputt ist.
+È sempre utile, quando la lavastoviglie si rompe.
+Das ist Bernards Zahnbürste.
+È lo spazzolino di Bernard.
+Ich putze mir doch nicht die Zähne mit Bernards Zahnbürste!
+Non mi laverei mai i denti con lo spazzolino di Bernard!
+Das macht die Zahnbürste schon gleich viel angenehmer.
+Lo spazzolino ora è molto più gradevole.
+Was soll ich desinfizieren?
+Cosa dovrei disinfettare?
+Die ist schon desinfiziert.
+È già disinfettato.
+Mal sehen was jetzt passiert...
+Beh, stiamo a vedere che succede adesso...
+Huch!
+Yikes! 
+Das ist ein selbstdesinfizierender Lappen.
+Questo è uno strofinaccio auto-disinfettante.
+Ich will das nicht desinfizieren.
+Non mi piace disinfettarlo.
+Nein, das sind nur gewöhnliche, langweilige Kondome.
+No, sono solo dei normali, noiosi contraccettivi.
+Hier ist niemand, mit dem ich die benutzen kann.
+Non c'è nessuno qui per poterli usare.
+Mein Lippenstift. Leider ist er schon leer.
+Il mio rossetto. Sfortunatamente è finito.
+Ein Lippenstift. Essentiell für gutes Aussehen.
+Un rossetto! Indispensabile per il trucco.
+Ein Kästchen voller Makeup. Das Allerwichtigste zum Überleben.
+Una scatola piena di trucchi. Molto importante per sopravvivere.
+Leider fehlt noch der Lippenstift.
+Sfortunatamente manca ancora il rossetto.
+Ich bin für heute schon geschminkt.
+Sono già truccata, per oggi.
+Der Lippenstift ist leer. So nützt er mir nichts.
+Il rossetto è finito. È inutile per me.
+Der Lippenstift passt perfekt zu meinem anderen Makeup.
+Il rossetto si adatta perfettamente al resto del mio trucco.
+Sexy...
+Sexy...
+... und heiß!
+... e focoso!
+Eine sexy Corsage.
+Un corpetto sexy.
+Leider etwas klamm geworden und nicht mehr heiß genug.
+Sfortunatamente si è un po' inumidito e non è abbastanza focoso!
+'Nagellackentferner - Superstark'
+"Diluente per smalto per unghie - extra forte"
+'WARNUNG: Kann in Verbindung mit Alkohol zu starken Verätzungen der Haut führen!'
+"ATTENZIONE: non combinare con alcool, altrimenti corroderà la pelle!"
+Klasse! Ich habe selber eine stark ätzende Säure hergestellt!
+Grandioso! Ho realizzato il mio primo acido corrosivo!
+So viel Fähigkeiten in Chemie hab ich mir gar nicht zugetraut.
+Non avrei mai sospettato di essere così brava in chimica!
+Ich will meinen Nagellack noch nicht entfernen.
+Non voglio togliermi lo smalto.
+Das bin ich!
+Sono io!
+Mein alter Discman.
+Il mio vecchio lettore CD.
+Wozu noch so einen 90er-Kram benutzen, wenn es iPods gibt?
+Perché dovrei usare questa roba anni '90, quando ci sono gli iPod?
+Es sind keine Batterien im Discman.
+Non ci sono le batterie.
+Ohne CD macht der Discman garnichts.
+Senza CD il lettore CD non farà nulla.
+Die Musik über Kopfhörer zu hören, nützt mir nichts gegen Bernard.
+Ascoltare la musica con gli auricolari non infastidirà mai Bernard.
+Wo soll ich die Batterien reintun?
+Dove devo mettere le batterie?
+Womit?
+Con che cosa?
+Ich habe die Mine heraus geholt.
+Ho tolto la cannula dalla penna.
+Klick-Klack.
+Click-Clack.
+'Ultra Hardcore Gabba'
+'Ultra Hardcore Gabba'
+Ui. Toll.
+Wow! Ganzo!
+Der Schlüssel von der Abstellkammer.
+La chiave del ripostiglio.
+Ich habe schon alles aufgeschrieben.
+Ci ho già scritto tutto sopra.
+Ein Kugelschreiber.
+Una penna a sfera.
+Das kommt dabei raus, wenn man Sitzkissen in den Mixer tut.
+Questo è ciò che si ottiene quando si frullano i cuscini.
+Zum Zähne putzen ist jetzt keine Zeit.
+Non ho tempo di lavarmi i denti.
+Text
+Text
+Wie kann ich Ihnen dienen?
+Come posso aiutarti?
+Speichern
+Salva
+Laden
+Carica
+Spielen
+Gioca
+Beenden
+Esci
+Pause.  Leertaste für weiter.
+Pausa. Premi SPAZIO per continuare.
+Wählen Sie ein Spiel zum Laden
+Scegli una partita da CARICARE.
+Abbruch
+Annulla
+Name für das Spiel
+Dai un nome al SALVATAGGIO.
+OK
+OK
+Sind Sie sicher, dass Sie aufhören wollen? (J/N)
+Vuoi davvero uscire? (S/N)
+Sind Sie sicher, das Sie neustarten wollen? (J/N)
+Vuoi davvero ricominciare? (S/N)
+Dr. Fred
+Dottor Fred
+Nurse Edna
+Infermiera Edna
+Weird Ed
+Ed il pazzo
+Meteor
+Meteora
+Green Tentacle
+Tentacolo Verde
+Purple Tentacle
+Tentacolo Viola
+Police
+Polizia
+Radiosprecher
+Radio DJ
+Postbote
+Postino
+New character
+Nuovo personaggio
+Fernbedienung>u
+telecomando>u
+Lukenöffner>u
+apribotola>u
+Kissen>u
+cuscino>u
+linkes Sitzkissen>u
+cuscino di sinistra>u
+rechtes Sitzkissen>u
+cuscino di destra>u
+kleiner Schlüssel>u
+piccola chiave>u
+Spüllappen>u
+strofinaccio>u
+nasser Spüllappen>u
+strofinaccio bagnato>u
+Batterien>u
+batterie>u
+rote Frucht>u
+frutta rossa>u
+rotes Handtuch>u
+asciugamano rosso>u
+Packzettel>l
+lista dei bagagli>l
+Kondome>u
+contraccettivi>u
+weißer BH>u
+reggiseno bianco>u
+pinker BH>u
+reggiseno rosa>u
+schwarzer Spitzen-BH>u
+reggiseno di pizzo nero>u
+lila Tanga>u
+tanga lilla>u
+Corsage>u
+corpetto>u
+blaue Zahnbürste>u
+spazzolino blu>u
+lila Zahnbürste>u
+spazzolino lilla>u
+Desinfektionsmittel>u
+disinfettante>u
+lila Kissen>u
+cuscino lilla>u
+lila Wasserfarbe>u
+acquerello lilla>u
+leeres Jogurtglas>u
+vasetto di yogurt vuoto>u
+Glas mit rotem Fruchtmus
+vasetto con polpa di frutta rossa
+fruchtige Kondome>u
+contraccettivi aromatizzati>u
+desinfizierte Zahnbürste
+spazzolino da denti disinfettato
+Bowlingkugel>u
+palla da bowling>u
+Schminkkästchen>u
+trousse>u
+Lippenstift>u
+rossetto>u
+Nagellackentferner
+diluente per smalto per unghie
+stark blubbernde Säure
+acido gorgogliante
+Discman>l
+lettore CD>l
+CD>l
+CD>l
+rostiger Schlüssel
+chiave arrugginita
+Kugelschreiber
+penna a sfera
+Kugelschreibermine
+cannula della penna a sfera
+gehäckselte Polsterreste
+cuscino triturato
+zurück
+indietro
+]Diese Episode:]
+]Per questo episodio:]
+]Grafiken]
+]Grafica]
+]Übersetzung für AGS 3.2]
+]Aggiornato ad AGS 3.2]
+]Credit-Modul:]
+]Modulo-Crediti:]
+]gewidmet:]
+]ringraziamenti speciali per:]
+allen Fans von Maniac Mansion
+tutti i fan di Maniac Mansion
+]ENDE~
+]FINE~
+Ich habe doch gesagt, dass ich in Ruhe lernen will.
+Ti ho già detto che voglio studiare in pace!
+Also, RAUS!
+Quindi: VAI FUORI!
+Da konnte Klein-Bernardinchen wohl nicht lernen...
+Così, il piccolo Bernarduccio non potrebbe più studiare...
+...und hat sich in die Bib verkrochen.
+... e si rifugerebbe in biblioteca.
+Hehehe.
+Eheheh.
+'Gewinner des Eierkopfpreises.'
+"Vincitore del Premio Testa d'Uovo"
+Das passt zu meinem Bruder.
+Si, quello è mio fratello.
+Was soll ich mit so einem Müll?
+Non mi serve quella immondizia.
+Nein danke.
+No, grazie.
+Ich kann es nicht öffnen.
+Non si può aprire.
+Ich kann es nicht schliessen.
+Non si può chiudere.
+Ich lass es wo es ist.
+Lo lascerò lì.
+Das passt hier nicht.
+Non ci entra.
+Jede Menge unverständlicher Schund.
+Un sacco di roba incomprensibile.
+Wie? Bücher kann man öffnen?
+Che cosa? I libri si possono aprire?
+Die sind schon zu.
+Sono già chiusi.
+Ich lass sie wo sie sind.
+Li lascerò lì.
+Das kann ich hier nicht benutzen.
+Non si può usare in questo modo.
+Ich wusste gar nicht, dass Bernard einen grünen Daumen hat.
+Non sapevo che Bernard avesse il pollice verde.
+Die bleibt da stehen.
+Se ne starà lì.
+Ich vergreife mich nicht an wehrlosen Pflanzen.
+Non voglio appropriarmi indebitamente di piante indifese.
+Es ist nur eine Pflanze.
+È solo una pianta.
+Ich lass sie wo sie ist.
+La lascerò lì.
+Das Bett von Bernard.
+Il letto di Bernard.
+Das bleibt da stehen.
+Lo lascerò lì.
+Da lege ich mich bestimmt nicht rein!
+Non dormirò qui.
+Nein, danke!
+No, grazie!
+Das geht nicht.
+Non funziona.
+Gute Idee! Ich brauche aber noch mehr davon.
+Buona idea! Ma me ne serve di più.
+Bernard, ich wünsche dir einen geruhsamen Schlaf.
+Bernard, ti auguro una buona notte di sonno...
+Und viel Spaß mit deiner Polsterallergie.
+... e un sacco di divertimento con il tuo cuscino allergenico!
+Ich kann das Haus von dem fetten Hoagie sehen.
+Si riesce a vedere la casa del grasso Hoagie.
+Ich brauche jetzt kein Fenster.
+Non mi serve una finestra.
+Soll ich es öffnen, oder schliessen?
+Dovrei aprire o chiudere?
+Es klemmt.
+Non si apre.
+Die Aussicht. Das einzig Gute in diesem Zimmer.
+Il panorama. L'unica cosa buona di questa stanza.
+Nein, das klemmt bestimmt.
+No, è proprio saldata.
+Eine Schublade.
+Un cassetto.
+Die möchte ich nicht mitnehmen.
+Non voglio prenderlo.
+Sie ist zu.
+È chiuso.
+Sie ist doch zu.
+È chiuso.
+Ich kann sie nicht weiter rein drücken.
+Non posso continuare a spingerlo dentro.
+Damit kann ich die Schublade nicht öffnen.
+Non posso aprire il cassetto con questo.
+Bernards Computer.
+Il computer di Bernard.
+Das ist doch kein Laptop.
+Non è un computer portatile.
+Da blinkt nur so ein grüner Strich.
+Solo un trattino verde lampeggiante.
+Laaaaaaangweilig.
+Che nooooooooiaaaaa!
+Das mache ich nicht.
+No, non lo farò.
+Der ist irgendwie schon zu.
+Lo è già.
+Ich will ihn nicht verschieben.
+Non voglio spostarlo.
+Da ist jede Menge Schrott drin.
+Dentro c'è un sacco di immondizia.
+Igitt! Ich fasse dieses Nerd-Zeugs bestimmt nicht an!
+Bleah! Non vorrei toccare questa roba da secchione!
+Sie ist doch schon offen.
+Lo è già.
+Ich will sie nicht raus reißen.
+Non voglio tirarlo fuori.
+Wenn ich das da rein tue wird das bestimmt kontaminiert!
+Se ci metto questo dentro, sicuramente si contaminerà tutto!
+Sieht aus wie ein Hamsterrad...
+Sembra quasi una ruota per criceti...
+...nur ohne Hamster.
+... ma il criceto è scomparso.
+Ich hab keine Ahnung wozu man das brauchen sollte.
+Non ho idea di come si possa usare.
+Ich möchte nicht.
+Preferisco di no.
+Ich will es nicht verschieben.
+Non ho voglia di spostare le cose.
+Ein Daunenkissen.
+Un cuscino.
+Ich möchte nicht in Bernards Bett schlafen.
+Non mi piace dormire nel letto di Bernard.
+Das mache ich jetzt nicht.
+Non serve a niente.
+Wer hat denn da Bernards Bett so eingesaut?
+Chi ha sporcato così il letto di Bernard?
+Nein. Das bleibt jetzt da.
+No. Lo lascerò lì.
+Tür>v
+porta>v
+Diplom
+attestato
+rechte Schublade>o
+cassetto destro>o
+linke Schublade>o
+cassetto sinistro>o
+Fenster
+finestra
+Chuck, die Pflanze
+Chuck, la pianta
+Bücher
+libri
+Bett
+letto
+Perpetuum Mobile
+macchina per il moto perpetuo
+Computer
+computer
+Schublade>c
+cassetto>c
+Kissen
+cuscino
+Polsterwolle
+imbottitura del cuscino
+Die Luke zum Dachboden.
+La botola per la soffitta.
+Da komme ich nicht ran.
+Non ci arrivo.
+Soll ich sie öffnen, oder schliessen?
+Dovrei aprire o chiudere?
+Die ist schon zu.
+Lo è già.
+Die Treppe nach unten.
+La rampa di scale.
+Ich brauche jetzt keine Treppe.
+Non ho bisogno della rampa.
+Ich kann doch keine Treppe öffnen.
+Non si possono aprire le scale.
+Ich kann die Treppe nicht schliessen.
+Non si possono chiudere le scale.
+Da geht es zum Dachboden.
+Conduce alla soffitta.
+Ich kann die Luke nicht mitnehmen.
+Non posso prendere la botola.
+Die ist schon offen.
+Lo è già.
+Die Leiter ist festgeschraubt.
+La scaletta è avvitata saldamente.
+Ist schon offen.
+Lo è già.
+Das ist mein Handtuch.
+È il mio asciugamano.
+Ich lasse es immer im Flur trocknen, damit es schön flauschig bleibt.
+Lo lascio sempre asciugare in corridoio, affinché rimanga soffice.
+Zuerst muss ich es nehmen.
+Prima dovrei prenderlo.
+Das kann man nicht öffnen.
+Non si può.
+Das kann man nicht schließen.
+Non si può.
+Ich möchte nicht, dass es die Treppe runter fällt.
+Non voglio. Cadrà giù per le scale.
+Das kann ich nicht damit benutzen.
+Non posso usare questo con quello.
+Treppe
+scale
+Luke
+botola
+Leiter
+scaletta
+Handtuch>l
+asciugamano>l
+Ich will erst noch meine Sachen packen.
+Prima devo sistemare le mie cose in valigia.
+Spieglein, Spieglein, an der Wand. Ich bin einfach die schönste im ganzen Land.
+Specchio, specchio delle mie brame... Sono la più bella del reame!
+Der ist ein wenig zu groß für meinen Koffer.
+È un po' troppo grande per la mia valigia.
+Perfekt.
+Bellissima.
+Den kann man nicht öffnen.
+Non si può.
+Es bewegt sich nichts.
+Non si sposta.
+Oh was ist denn da alles drin?
+Oh! Cosa c'è dentro?
+Ich mag meine Möbel.
+Mi piacciono i miei mobili.
+Der bleibt hier.
+Meglio che resti lì.
+Jetzt nicht.
+Per niente.
+Der lässt sich nicht öffnen. Die Schranktüren sind nur Deko.
+Non posso aprirla. Gli sportelli sono solo decorativi.
+Der ist schon zu.
+Lo è già.
+Die bleibt hier.
+Meglio che resti lì.
+Wo ist meine Unterwäsche hin???
+Dove diavolo è la mia biancheria intima???
+Die hat Bernard bestimmt wieder geklaut.
+Sicuramente me l'ha rubata Bernard.
+Na warte!
+Gliela farò pagare!
+Man kann nur eine Schublade öffnen.
+È possibile aprire solo un cassetto.
+Die anderen sind nur Dekoration.
+Gli altri sono solo decorativi.
+Sie bewegt sich nicht.
+Non si muove.
+Leer.
+Vuoto.
+Meine Klamotten habe ich gestern schon eingepackt.
+Ho già preparato i miei vestiti fin da ieri.
+Er bewegt sich nicht.
+Non si muove.
+Mein wunderschönes Himmelbett.
+Il mio bellissimo letto a baldacchino.
+Das bleibt hier.
+Meglio che resti lì.
+Ich will jetzt nicht schlafen gehen.
+Non mi va di dormire, adesso.
+Das ist perfekt gemacht. Ich will das nicht unordentlich machen.
+È fatto perfettamente. Non mi piace lasciare in disordine.
+Das ist schon perfekt gemacht.
+È già fatto perfettamente.
+Bye bye triste Stadt.
+Bye bye, triste cittadina.
+Nein. Ich nehme lieber die Haustür.
+No. Preferisco usare la porta.
+Ich mag meinen Koffer.
+Mi piace la mia valigia.
+Pink ist meine zweite Lieblingsfarbe.
+Il rosa è il mio secondo colore preferito.
+Der ist noch nicht fertig gepackt.
+Non ho ancora terminato di preparare il bagaglio.
+Ich muss den erst öffnen.
+Prima devo aprirla.
+Der ist abgeschlossen. Und der Schlüssel fehlt.
+È chiusa. E la chiave è scomparsa.
+Wo hab ich den nur gelassen?
+Dove l'avrò messa?
+Er liegt da schon perfekt.
+Sta già bene lì dov'è.
+Ich muss erst den Koffer öffnen um etwas hinein zu tun.
+Dovrei prima aprire la valigia per metterci qualcosa dentro.
+Dafür muss ich ihn erst schließen.
+Dovrei prima chiuderla.
+Was soll ich hinein tun?
+Cosa dovrei metterci dentro?
+Der ist offen.
+È aperta.
+So, ich glaube ich hab alles..
+Ecco. Dovrebbe esserci tutto.
+Geschafft. Dann kanns ja losgehen.
+Presa. Ora posso cominciare.
+Urlaub - ich koooooooommmmeeeeeeee!!!
+Vacanza - Sto arrivaaaaaandooooooooo!!!
+Da ist noch nicht alles drin, was ich brauche.
+Non c'è ancora tutto quello che mi serve.
+Check.
+Controllato.
+Oh ja! Der muss unbedingt mit!
+Oh si! Assolutamente!
+Diese Kondome sind langweilig!
+Questi contraccettivi sono noiosi!
+Im Hotel gibt es Handtücher für umsonst!
+In hotel ci sono asciugamani gratuiti!
+Die nehme ich nicht mit.
+Non mi porto in giro cose del genere.
+Die hat Bernard schon in seinem stinkenden Mund gehabt.
+Bernard l'ha messo nella sua bocca puzzolente.
+Die ist kaputt.
+È rotto.
+So nützt sie mir nichts.
+Non mi serve a nulla.
+Bernards Kissen ist zwar schön kuschelig...
+Il cuscino di Bernard è molto confortevole...
+Aber ich mag es trotzdem nicht.
+Ma non mi piace comunque.
+Wenn ich den Schlüssel in den Koffer packe, bekomme ich den doch später gar nicht mehr auf!
+Se metto la chiave nella valigia, poi non la potrò aprire!
+Der ist nicht sexy genug um ihn mit in den Urlaub zu nehmen.
+Non è abbastanza sexy da portare con me in vacanza.
+Das Makeup brauche ich unbedingt. Da muss aber noch ein Lippenstift bei.
+Ho assolutamente bisogno dei trucchi. Però manca ancora il rossetto.
+Das ist sexy. Aber nicht mehr heiß genug.
+Questo è sexy. Ma non abbastanza focoso.
+Dann weiß ich doch gar nicht mehr, was ich sonst noch brauche...
+Poi non saprei più di cos'altro ho ancora bisogno...
+Ich sollte ihn zuerst zu meinem anderen Makeup tun.
+Dovrei metterlo insieme agli altri trucchi prima.
+Das möchte ich nicht einpacken.
+Non voglio mettere cose del genere in valigia.
+Die will ich nicht rausreißen!
+Non voglio che si rompa!
+Was soll ich tun?
+Perché dovrei farlo?
+Nee.
+Noo.
+Wenn ich sie schließen soll, dann muss ich sie schließen.
+Se vuoi chiuderlo, allora devi cliccare su 'Chiudi'.
+Der ist schon offen
+Lo è già.
+Das ist mein Packzettel.
+Questa è la mia lista dei bagagli.
+Ist es nicht süß?
+Non è carino?
+Das hat mir Nick geschenkt.
+Me l'ha dato Nick.
+Oder war es Kevin?
+O era da parte di Kevin?
+Naja, ist auch egal...
+Beh, non importa...
+Ich würde es so gerne mitnehmen.
+Mi piacerebbe davvero portarlo.
+Nur leider passt es nicht in meinen Koffer.
+Ma purtroppo non ci sta in valigia.
+Sexy.
+Sexy.
+Das hängt da ganz gut.
+Appeso lì va abbastanza bene.
+Mein Schminkkästchen. Da ist mein ganzes Makeup drin.
+La mia trousse. Ci sono dentro tutti i miei trucchi.
+Mal sehen ob auch alles da ist...
+Vediamo se c'è tutto...
+Mist! Mein Lippenstift ist schon wieder alle!
+Accidenti! Il mio rossetto è nuovamente finito!
+Ich sollte es erst einmal nehmen.
+Si dovrebbe prima raccogliere.
+Gleich gehts in den Urlaub.
+Oggi vado in vacanza.
+Ich freu mich schon tierisch drauf.
+Non sto nella pelle dall'eccitazione.
+Sonne,...
+Sole,...
+Strand,...
+spiaggia,...
+heiße Typen,...
+bei ragazzi,...
+und gaaanz viel Party!
+e un sacco di feste!
+Aber das Allerbeste ist:...
+Ma il meglio sarà:...
+Kein nerviger Bernard weit und breit!
+Nessun fastidioso Bernard tra i piedi!
+Ich muss nur noch ein paar Kleinigkeiten einpacken.
+Devo solo mettere in valigia un paio di cose.
+Auf meinem Zettel steht alles was ich noch brauche.
+Sulla mia lista c'è scritto tutto ciò che mi serve.
+Spiegel
+specchio
+Kleiner Schrank
+specchiera
+Kommode>o
+cassettiera>o
+Kleiderschrank>o
+guardaroba>o
+großes Herzkissen
+grosso cuscino a cuore
+Poster
+poster
+pinker Koffer
+valigia rosa
+Kleiderschrank>c
+guardaroba>c
+Zettel
+lista dei bagagli
+Schminkkästchen>p
+trousse
+Ein Wasserhahn.
+Un rubinetto.
+Der ist festgemacht.
+È fissato.
+Das Wasser läuft bereits.
+L'acqua sta già scorrendo.
+Der Wasserhahn ist doch schon zu.
+Il rubinetto è già chiuso.
+Das kann ich damit nicht benutzen.
+Non posso farci niente così.
+Ein Waschbecken.
+Un lavandino.
+Warum?
+Perché?
+Es ist noch zu früh um mein Makeup abzuwaschen.
+È ancora troppo presto per togliersi il trucco.
+Dazu gibt es keinen Grund.
+Non c'è motivo per farlo.
+Das macht keinen Sinn.
+Questo non ha alcun senso.
+Fällt dir nichts besseres ein?
+Non riesci a pensare a qualcosa di meglio?
+Ein Spüllappen gehört in die Spüle!
+Uno strofinaccio per i piatti va nel lavello!
+Damit würde ich das Waschbecken verstopfen.
+Questo intaserebbe il lavandino.
+Hmmm, da fehlt noch ein wenig Makeup. Aber sonst wie immer perfekt!
+Hmmm, mi manca un po' di trucco. Ma per il resto perfetta come sempre!
+Der ist etwas zu groß für meinen Koffer.
+È troppo grande per la mia valigia.
+Der ist abgeschlossen, leider.
+Sfortunatamente è chiuso.
+Mom hat immer Angst, dass ich ihr Makeup klaue.
+Mamma ha sempre paura che io rubi i suoi trucchi.
+Der ist fest an die Wand geschraubt.
+È saldamente avvitato alla parete.
+Hmm, ja...
+Hmm, si...
+...ich könnte probieren, das damit aufzuhebeln.
+... potrei provare a fare leva con questo.
+Moment...
+Aspetta...
+Hehe. Geht doch!
+Hehe. E andiamo!
+Nur leider ist dadurch meine Zahnbürste zerbrochen.
+Purtroppo il mio spazzolino si è rotto.
+Lieber nicht.
+Meglio di no.
+Sie könnte kaputt gehen, wenn ich den Spiegelschrank damit aufhebel.
+Potrei romperlo se provassi ad aprire l'armadietto a specchio così.
+Der Lippenstift ist zu breit. Der passt nicht in die Ritze.
+Il rossetto è troppo spesso. Non entra nella fessura.
+Der Schlüssel passt nicht.
+La chiave non ci entra.
+Ich möchte den Spiegelschrank nicht kaputt schlagen.
+Non voglio spaccare l'armadietto a specchio.
+Damit bekomme ich den Spiegelschrank nicht auf.
+Così non posso aprire l'armadietto a specchio.
+Eine handelsübliche Badewanne.
+Una comune vasca da bagno.
+Bis zum Rand mit Wasser gefüllt.
+Riempita fino all'orlo di acqua.
+Bis zum Rand mit lila Wasser gefüllt.
+Riempita fino all'orlo di acqua lilla.
+Das schaffe ich nicht allein.
+Non ci riesco da sola.
+Ich habe keine Zeit zum baden.
+Non ho tempo per farmi il bagno.
+Und alleine ist das sowieso langweilig.
+E comunque da sola è noioso.
+Das geht nicht zu.
+Non si chiude.
+Schick.
+Carino.
+Ich hab jetzt lila Badewasser.
+Ora c'è dell'acqua lilla nella vasca.
+Ich möchte das nicht in die Wanne legen.
+Non voglio mettere cose del genere nella vasca da bagno.
+Ich habe das Kissen lila gefärbt.
+Ho tinto il cuscino di lilla.
+Ich will das Kissen nicht nur nass machen.
+Non voglio inzuppare il cuscino.
+Bernard soll in der Badewanne schlafen? Auch keine schlechte Idee...
+Bernard dovrebbe dormire nella vasca? Non è così male come idea...
+Ein Spüllappen gehört in die SPÜLE.
+Uno strofinaccio per i piatti va nel lavello dei PIATTI!
+Ich soll meine Unterwäsche in der BADEWANNE waschen???
+Dovrei lavare la mia biancheria nella VASCA???
+Ich möchte das nicht lila färben.
+Non voglio che diventi lilla.
+Ich möchte das nicht waschen.
+Non voglio lavare.
+Eine Badezimmermatte.
+Un tappetino da bagno.
+Ich brauche keine Badezimmermatte.
+Non ho bisogno di un tappetino da bagno.
+Die lässt sich nicht öffnen.
+Non si apre.
+Die lässt sich nicht schließen.
+Non si chiude.
+Die bleibt da liegen.
+Meglio che resti lì.
+Eine Kloschüssel.
+Una tazza del gabinetto.
+Ja klar.
+Certamente.
+Dazu wäre ich ganz gerne alleine!
+Per questo preferirei essere da sola!
+Der Deckel ist schon offen.
+Il coperchio è già aperto.
+Der Deckel ist schon zu.
+Il coperchio è già chiuso.
+Das bewegt sich nicht.
+Non si muove.
+Das will ich nicht das Klo herunterspülen.
+Non voglio gettare cose del genere nel gabinetto.
+Die Klospülung.
+Lo sciacquone.
+Die ist am Spülkasten festgemacht.
+È fissata allo sciacquone.
+Ich sehe da kein Sinn drin.
+Questo non ha senso.
+Draussen ist auch nichts los.
+Niente di particolare, là fuori.
+Igitt! Bernard hat mal wieder nicht die Bürste benutzt!
+Ugh! Bernard ha di nuovo dimenticato di usare lo scovolino!
+Den kann man nicht nehmen.
+Non si può raccogliere.
+Ich muss nicht.
+Non mi serve.
+Der Deckel ist bereits geöffnet.
+Il coperchio è già aperto.
+Der ist am Klo festgemacht.
+È fissato al gabinetto.
+Ich muss erst die Luke schließen.
+Devo prima chiudere l'oblò.
+Die Maschine ist leer.
+La lavatrice è vuota.
+Fertig.
+Fatto.
+Unsere neue Waschmaschine.
+La nostra nuova lavatrice.
+Nun muss Mom nicht mehr alles mit der Hand waschen.
+Ora la mamma non deve più lavare tutto a mano.
+Die ist schon geschlossen.
+Lo è già.
+Meine lila Zahnbürste.
+Il mio spazzolino lilla.
+Da ist ja meine Zahnbürste.
+Ecco il mio spazzolino da denti.
+Hey, Moment...
+Ehi, un momento...
+Die hat ja gar keine Borsten mehr!
+Non ha più alcuna setola!
+Anscheinend hat dieser kleine Eierkopf die abgeschnitten!
+Sembra che quel nerdorucolo le abbia tagliate!
+Grrrrrr
+Grrrrrr
+Meine Zähne sind noch sauber genug.
+I miei denti sono ancora abbastanza puliti.
+Bernards blaue Zahnbürste.
+Lo spazzolino blu di Bernard.
+Das ist zwar Bernards Zahnbürste, ich nehme die aber trotzdem mal mit.
+Anche se è lo spazzolino di Bernard, lo porterò con me.
+Bestimmt nicht. Die hatte Bernard schon in seinem stinkenden Mund.
+No di certo. Bernard l'ha già messo nella sua bocca puzzolente.
+Der Spiegelschrank ist jetzt offen. Mal sehen was Mom hier so alles hat...
+L'armadietto a specchio ora è aperto. Vediamo cos'ha messo qui la mamma...
+Der ist schon offen.
+Lo è già.
+Jetzt hab ich es endlich geschafft, ihn zu öffnen.
+Adesso sono finalmente riuscita ad aprirlo.
+Jetzt bleibt er auch offen!
+Ora rimarrà aperto!
+Damit kann man Wasser in die Wanne lassen.
+È utilizzato per riempire d'acqua la vasca.
+Die Wanne ist jetzt voll
+La vasca ora è piena d'acqua.
+Wow! Das ging ja schnell!
+Wow! Ha fatto in fretta!
+Die Wanne ist bereits bis zum Rand mit Wasser gefüllt.
+La vasca è già piena fino all'orlo d'acqua.
+Die Waschmaschine ist offen.
+La lavatrice è aperta.
+Die Waschmaschine ist leer.
+La lavatrice è vuota.
+Nur Handwäsche. Sonst geht es kaputt.
+Solo lavaggi a mano. Altrimenti si rovina.
+Das möchte ich nicht waschen.
+Non voglio lavare cose del genere.
+Damit wird das Bad belüftet ohne dass man das Fenster öffnen muss.
+Così il bagno è ventilato senza dover aprire la finestra.
+Praktisch.
+Pratico.
+Ich möchte den Lüftungsschacht nicht mit Krams verstopfen.
+Non voglio intasare il condotto dell'aria di roba.
+Damit bekomme ich das Gitter nicht auf.
+Non posso aprire la griglia così.
+Mom würde bemerken dass ihr Lippenstift fehlt und ich bekomme wieder Dateverbot.
+La mamma si accorgerebbe se mancasse il suo rossetto e mi sarebbero di nuovo vietati gli appuntamenti.
+Das ist Moms Lippenstift.
+Quello è il rossetto della mamma.
+Den kann ich nicht öffnen, so lange er im Schrank steht.
+Non posso aprirlo mentre sta nell'armadietto.
+Nochmal tausche ich den nicht aus.
+Non lo sotituirò di nuovo.
+Dann hab ich ja wieder den leeren.
+Riprenderei quello vuoto.
+Mom, ich glaube dein Lippenstift ist alle...
+Mamma, credo che il tuo rossetto sia finito...
+Ich kann das nicht mit dem Lippenstift benutzen.
+Non si può usare con il rossetto.
+Das ist Moms Nagellackentferner.
+Questo è il solvente per le unghie della mamma.
+Ich sollte ihn erst einmal mitnehmen.
+Si dovrebbe prima raccogliere.
+Wasserhahn>u
+rubinetto>u
+Waschbecken
+lavandino>u
+Spiegelschrank
+armadietto a specchio
+Badewanne
+vasca da bagno
+Matte
+tappetino
+Toilette>o
+gabinetto>o
+Kette>y
+catena>y
+Waschmaschine>o
+lavatrice>o
+Wasserhahn
+rubinetto
+Lüftungsgitter>o
+griglia di ventilazione>o
+Klodeckel>c
+coperchio del gabinetto
+blaue Zahnbürste
+spazzolino blu
+lila Zahnbuerste
+spazzolino lilla
+Luke>c
+cestello>c
+Lüftungsschacht>c
+condotto>c
+Lippenstift
+rossetto
+Nagellackentferner>p
+solvente per unghie>p
+Hier schlafen Mom und Dad.
+Qui dormono mamma e papà.
+Das ist doch nur ein Bett.
+È solo un letto.
+Ich will jetzt nicht schlafen.
+Non voglio dormire ora.
+Das lässt sich nicht verschieben.
+Non si può spostare.
+Das will ich nicht auf das Bett legen.
+Non voglio lasciare le mie cose sul letto.
+Meine Eltern haben diesen schweren Vorhang aufgehängt.
+I miei genitori hanno appeso questa tenda in tessuto pesante.
+Damit der fette Hoagie nicht mehr spannen kann.
+Così quel grassone di Hoagie non può più spiare.
+Ich brauche keinen Vorhang.
+Non ho bisogno di una tenda.
+Der ist zu schwer zum öffnen.
+È troppo pesante per aprirla.
+Ein Nachtschränkchen.
+Un comodino.
+So was nehme ich nicht mit.
+Non voglio prenderlo.
+Ist doch schon zu.
+Lo è già.
+Soll ich mich da etwa drauf stellen?
+Dovrei salirci sopra?
+Der lässt sich nicht verschieben.
+Non si può spostare.
+Das will ich nicht auf das Schränkchen legen.
+Non voglio mettere le mie cose sul comodino.
+Eine Lampe.
+Una lampada.
+Sowas brauche ich nicht.
+È una cosa di cui non ho bisogno.
+Ich lasse die lieber an, es ist sonst so dunkel hier drin.
+Preferisco lasciarla accesa, qui dentro farebbe troppo buio.
+Sie sieht geschlossen aus.
+Sembra chiusa.
+Ich lasse sie besser da stehen.
+Meglio che rimanga qui.
+Die Tür ist schon offen.
+La porta è già aperta.
+Das will ich nicht in das Schränkchen legen.
+Non voglio mettere le mie cose nel comodino.
+Ein Bild von einem alten Penner.
+Un dipinto di un vecchio barbone.
+Übelst hässlich.
+Davvero disgustoso.
+Keine Ahnung warum sich meine Eltern so einen Schund übers Bett hängen.
+Non ho idea del perché i miei genitori abbiano appeso una tale schifezza sopra al letto.
+Das nehme ich nicht mit.
+Non voglio prenderlo.
+Meine Eltern sind zu arm um dahinter einen Safe verstecken zu müssen.
+I miei genitori sono troppo poveri per avere una cassaforte nascosta.
+Was soll ich damit anfangen?
+Che ci dovrei fare?
+Meine Eltern bringen mich um wenn ich das Bild verschandle.
+I miei genitori mi uccideranno se rovino il loro dipinto.
+Das Lieblingsspielzeug von Mom.
+Il giocattolo preferito della mamma.
+Sowas habe ich nicht nötig!
+Non ne ho bisogno!
+Ich habe die Batterien entnommen.
+Ho tolto le batterie.
+Das Batteriefach ist leer.
+Il vano batterie è vuoto.
+Da sind keine Batterien mehr drin.
+Non ha più le batterie.
+Ich kann die Batterien bestimmt noch für was besseres gebrauchen.
+Posso sicuramente usare le batterie in un modo migliore.
+Das ist einfach nur pervers.
+Questo è solo perverso.
+Ich will Moms Lieblingsspielzeug nicht kaputt machen.
+Non voglio rompere il giocattolo preferito della mamma.
+Eine Packung von Dads Kondomen.
+Un pacchetto di contraccettivi di papà.
+Ganz gewöhnliche, langweilige Kondome.
+Soltanto ordinari, noiosi contraccettivi.
+So lange ich alleine bin, geht das nicht.
+Finché sono da sola, non funziona.
+Mit Pfirsichgeschmack.
+Al gusto pesca.
+Nein, danke.
+No, grazie.
+Ich hasse Pfirsiche.
+Odio le pesche.
+Obwohl sie lila sind.
+Anche se sono lilla.
+Damit lässt sich das Licht anschalten.
+Questo permette l'accensione della luce.
+Damit lässt sich das Licht ausschalten.
+Questo permette lo spegnimento della luce.
+Hier drin ist es zu dunkel.
+È troppo buio qui.
+Ich kann nichts erkennen.
+Non riesco a vedere niente.
+schwerer Vorhang
+tenda in tessuto pesante
+Nachtschränkchen>o
+comodino>o
+Lampe
+lampada
+Gemälde
+dipinto
+Lichtschalter>u
+interruttore>u
+Nachtschränkchen>c
+comodino>c
+Vibrator>l
+vibratore>l
+Kondome
+contraccettivi
+Kondome mit Pfirsichgeschmack
+contraccettivi al gusto pesca
+Immernoch das Haus von diesem fetten Hoagie.
+Ancora la casa di quel grassone di Hoagie.
+Uargh! Ich hasse dieses Tenktakel-Vieh.
+Uargh! Odio queste creature tentacolari.
+Ich will es nicht übermalen.
+Non voglio dipingerci sopra.
+Da ist sicher kein Tresor hinter.
+Sicuramente non c'è una cassaforte dietro.
+Da ist nichts zum Schließen.
+Non c'è nulla da chiudere.
+Ich lasse es da hängen.
+Meglio che resti dov'è.
+Damit würde ich das Bild beschädigen.
+Danneggerei il quadro così.
+Ein grüner Gartenschlauch.
+Un tubo di gomma verde.
+Igitt! Der Schlauch ist total versifft.
+Ugh! Il tubo è lurido.
+Das kann man nicht schliessen.
+Non si può chiudere.
+Ich lasse ihn da liegen.
+Meglio che rimanga lì.
+Damit kann ich hier nichts machen.
+Non ci posso combinare niente.
+Ein Chemie-Baukasten von Bernard.
+Il kit di chimica di Bernard.
+Damit hat er schon als Kind geübt, wie man den Keller kontaminiert.
+Quand'era bambino ha provato a contaminare lo scantinato con questo.
+Nein danke, sowas brauch ich nicht.
+No grazie, non ne ho bisogno.
+Ich will den nicht öffnen.
+Non voglio aprire questa cosa.
+Ein paar alte Zeitschriften.
+Un mucchio di vecchie riviste.
+Die sind ja schon ewig alt!
+Sono davvero vecchie!
+Keine Ahnung wer so einen Schund aufhebt.
+Non so perché qualcuno conservi questa spazzatura.
+Die will ich jetzt nicht öffnen.
+Non voglio aprirle.
+Die will ich nicht schliessen.
+Non voglio chiuderle.
+Ich lasse sie da liegen.
+Le lascerò lì.
+Ein Benzinkanister.
+Una tanica di benzina.
+Da ist kein Benzin drin.
+Non c'è carburante dentro.
+Damit hat Bernard bestimmt wieder irgendeinen Unsinn gemacht.
+Bernard ha sicuramente fatto di nuovo qualche sciocchezza.
+Den will ich jetzt nicht öffnen.
+Non la voglio aprire.
+Der ist zu.
+È chiusa.
+Ich lasse ihn da stehen.
+La lascerò lì.
+Eklig.
+Disgustosa.
+Nee. Das Zeug klebt wie Sau!
+Naa. Quella roba appiccica da morire!
+Da geht es runter.
+Conduce al piano inferiore.
+Dann komme ich nicht mehr runter.
+Non potrei più scendere.
+Ein Karton.
+Una scatola di cartone.
+Der bleibt hier!
+La lascerò qui!
+Hey, da ist eine sexy Corsage drin.
+Ehi, c'è dentro il mio corpetto sexy.
+Igitt! Die ist durch den kalten Dachboden totaaal klamm geworden.
+Ugh! L'aria della soffitta l'ha fatto diventare mooolto umido.
+Jetzt ist sie gar nicht mehr heiß genug.
+Adesso non è abbastanza focoso.
+Der ist mit superstarkem Panzerband zugeklebt.
+È chiusa con del nastro adesivo ultra resistente.
+Der Karton ist doch zu.
+La scatola è chiusa.
+Ich kann den Karton nicht bewegen.
+Non riesco a muovere la scatola.
+Ein großer Lautsprecher.
+Un grosso altoparlante.
+Der gibt bestimmt voll den fetten Beat ab.
+Sicuramente si sentirà tutto il ritmo.
+Der ist mir viel zu schwer.
+È troppo pesante per me.
+Der Lautsprecher ist doch zu.
+L'altoparlante è già chiuso.
+So bewegt sich nichts.
+In questo modo non si muoverà.
+Hmmmm, mal sehen...
+Hmmmm, vediamo...
+Ups.
+Oops.
+Wo soll ich ihn anschließen?
+Dove dovrei collegarlo?
+Ich will den Lautsprecher nicht kaputt machen.
+Non voglio rovinare l'altoparlante.
+Discos sind ja wohl klasse!
+La disco è fantastica!
+Ich hoffe im Urlaub gibts genug geile Locations zum Party machen.
+Spero che ci siano un mucchio di posti per fare feste in vacanza.
+Das bleibt da hängen!
+Resta lì!
+Ich weiß nicht wie.
+Non so come farlo.
+Ich kann es nicht bewegen.
+Non riesco a spostarla.
+Der Karton ist mit superstarkem Panzerband zugeklebt.
+La scatola è chiusa con nastro adesivo ultra resistente.
+Uff! Das Zeug klebt zu fest.
+Uff! Questa roba è troppo dura.
+Mit bloßen Händen kriege ich das niemals ab.
+Non ci riuscirò mai a mani nude.
+Mal sehen...
+Vediamo...
+Die Säure ist so stark, die zerfrisst sogar das superstarke Panzerband.
+L'acido è così forte che corrode anche il nastro adesivo ultra resistente.
+Damit kann ich das Panzerband nicht entfernen.
+Non posso rimuovere il nastro adesivo così.
+Das Kabel vom Lautsprecher.
+Il cavo dell'altoparlante.
+Das kann ich nicht mitnehmen. Das ist fest mit dem Lautsprecher verbunden.
+Non posso prenderlo. È saldamente connesso all'altoparlante.
+Ich kann das nicht mit dem Kabel benutzen.
+Non si può utilizzare col cavo.
+Ich möchte das Kabel nicht heraus ziehen.
+Non voglio strappare il cavo.
+Ups. Der ist mir umgefallen.
+Oops. Si è ribaltato.
+Der geht nicht auf.
+Non si può aprire.
+Der Lautsprecher ist schon zu.
+L'altoparlante è già a terra.
+Der Lautsprecher ist zu schwer zum bewegen.
+L'altoparlante è troppo pesante per spostarlo.
+Damit kann man den Lautsprecher an eine Stereoanlage anschließen.
+Questo permette di collegare l'altoparlante ad un impianto stereo.
+Wenn wir eine hätten.
+Se ne avessimo uno.
+Den muss ich hier lassen.
+Devo lasciarla qui.
+Mit was? Wir haben keine Stereoanlage.
+Con cosa? Non abbiamo un impianto stereo.
+Schließe Stecker?
+Chiudere la presa?
+Ich könnte da höchstens etwas ANschließen!
+Posso fare di meglio collegandoci qualcosa!
+Ich möchte den nicht abreißen.
+Non voglio che si strappi.
+Das ist kein Drücker.
+Non si può spingere.
+Der Stecker passt nicht in den Discman.
+La presa non è adatta al lettore CD.
+Aber vielleicht wenn ich fest drücke...
+Ma forse se premo più forte...
+Passt doch...
+Così entra...
+Der Stecker passt da nicht dran.
+La presa non è adatta.
+Ein alter Kasten mit Wasserfarbe.
+Una vecchia scatola di acquerelli.
+Ich nehme nur die lila Farbe mit.
+Prendo solo il colore lilla.
+Nein danke. Da ist kein Lila mehr drin.
+No grazie. Non c'è più il lilla.
+Mein alter Discman. Der verstaubt hier schon seit ich meinen iPod habe.
+Il mio vecchio lettore CD. È qui a prendere la polvere da quando ho l'iPod.
+So lange der Discman im Regal liegt, komme ich nicht richtig ran.
+Finché il lettore CD è sullo scaffale, non ci arrivo.
+Ohne CD macht der Discman gar nichts.
+Senza un CD il lettore è inutile.
+Gute Idee. Ich glaube aber das ist so noch nicht effektiv genug.
+Buona idea. Ma penso che non sia abbastanza efficace.
+Bei dem Krach kann Bernard bestimmt nicht mehr lernen.
+Con questo fracasso Bernard non riuscirà sicuramente a studiare.
+Für heute habe ich genug Krach gemacht.
+Per oggi ho fatto abbastanza rumore.
+Mein alter Discman. Den habe ich an den dicken Lautsprecher angeschlossen.
+Il mio vecchio lettore CD. L'ho collegato al grosso altoparlante.
+Nein, da kann er bleiben.
+No, può stare lì.
+Ich will das nicht kaputt machen.
+Non voglio che si rompa.
+Ein altes Spielzeugauto.
+Una vecchia auto giocattolo.
+Das brauche ich nicht. Nur kleine Kinder spielen mit sowas.
+Non mi serve. Solo i bambini giocano con queste cose.
+Die Räder sind so festgerostet, da bewegt sich nix mehr.
+Le ruote sono arrugginite, non si muovono.
+Ich kann mit dem Spielzeugauto nichts anfangen.
+Non ci faccio nulla con un'auto giocattolo.
+Bild
+poster
+Schlauch
+tubo di gomma
+Chemie-Baukasten
+kit di chimica
+Zeitschriften
+riviste
+Benzinkanister
+tanica di benzina
+Umgekippter Superkleber
+supercolla rovesciata
+Karton
+scatola di cartone
+Lautsprecher
+altoparlante
+Disco sucks
+'Disco Sucks'
+Kabel
+cavo
+Stecker
+presa
+Superpanzerband
+super nastro adesivo
+Wasserfarbkasten
+acquerelli
+Spielzeugauto
+auto giocattolo
+Discman
+lettore CD
+Tschuldigung.
+Scusa.
+Ist mir doch jetzt egal...
+Non me ne frega nulla ora...
+Ich habe Urlaub!
+Sono in vacanza!
+Die Tür ist abgeschlossen.
+La porta è chiusa.
+Ich muss das ins Schlüsselloch tun.
+Devo infilarla nel buco della serratura.
+Ich kann damit die Tür nicht aufbrechen.
+Non posso abbattere la porta così.
+Da geht es nach oben.
+Da qui si va al piano superiore.
+Das kann ich nicht nehmen.
+Non ci riesco.
+Es geht nicht auf.
+Non si può aprire.
+Es geht nicht zu.
+Non si può chiudere.
+da bewegt sich nichts.
+Non si muove nulla.
+Immer wenn ich dieses Bild anschaue, hab ich das Gefühl, zu viel getrunken zu haben...
+Ogni volta che guardo questo quadro, ho come la sensazione di essere ubriaca...
+... ich sehe den Kopf dreifach.
+... vedo tre teste.
+Ich will keine Freaks aus Bernards Computerspielen mit mir rumschleppen!
+Non voglio portarmi in giro mostriciattoli dei giochi per computer di Bernard!
+Die Telefonkommode.
+Il mobiletto del telefono.
+Die linke Kommodentür ist offen.
+L'anta sinistra del mobiletto è aperta.
+Die rechte Kommodentür ist offen.
+L'anta destra del mobiletto è aperta.
+Ein antikes Telefon.
+Un telefono antico.
+Mit WÄHLSCHEIBE!
+Con il SELETTORE A DISCO!
+Ich habe keine Ahnung wie man so etwas uuuuuraltes bedient.
+Non ho idea di come usare qualcosa di coooosì antico.
+Innen steckt ein Schlüssel.
+La chiave è all'interno.
+Wie kommt denn der da rein?
+Come sarà finita lì?
+Ich habe es nicht nötig, durch Schlüssellöcher zu spannen.
+Non è necessario guardare attraverso il buco della serratura.
+Dann wär der Schlüssel weg.
+Così la chiave sarebbe persa.
+Da steckt kein Schlüssel mehr.
+Non c'è più la chiave inserita.
+Gute Idee. Leider ist der Kuli zu breit für das Schlüsselloch.
+Buona idea. Ma la penna è troppo spessa per il buco della serratura.
+Das passt nicht ins Schlüsselloch
+Non entra nella toppa.
+Ich sollte meinen Zettel wieder mitnehmen. Sonst weiß ich gar nicht, was ich noch einpacken muss.
+Dovrei prendere la mia nota. Altrimenti non saprei cos'altro devo mettere in valigia.
+Ich sollte ihn erst aufnehmen.
+Si dovrebbe prima raccogliere.
+Rote Seiten.
+Le Pagine Rosse.
+Dieses Buch enthält alle Nummern von den Leuten, die keinen Eintrag im Telefonbuch wünschten.
+Questo libro contiene tutti i numeri delle persone che non vogliono comparire negli elenchi telefonici.
+Nein danke. Das ist mir zu schwer zum rumschleppen.
+No grazie. È troppo pesante da portare in giro.
+Und es ist auch NICHT lila!
+E NON è neppure lilla!
+Huch. Da hat jemand eine CD in das Buch gelegt.
+Uh! Un CD che qualcuno ha lasciato nell'elenco.
+Ich möchte nicht meine Zeit mit dem Lesen von langweiligen Telefonnummern verschwenden!
+Non voglio sprecare il mio tempo a leggere noiosi numeri telefonici!
+Obergeschoss
+piano superiore
+linke Kommodentür>o
+anta comodino sinistro>o
+Dreiköpfiger Affe
+Scimmia a tre teste
+rechte Kommodentür>o
+anta comodino destro>o
+Schlüsselloch
+buco della serratura
+linke Kommodentür>c
+anta comodino sinistro>c
+rechte Kommodentür>c
+anta comodino destro>c
+Telefon>l
+telefono>l
+Zettel>p
+nota>p
+Kugelschreiber>p
+penna a sfera>p
+Telefonbuch>l
+elenco telefonico>l
+Ein Regal.
+Uno scaffale.
+Das ist viel zu schwer.
+È troppo pesante.
+Ich möchte da nichts rein tun.
+Non voglio metterci nient'altro.
+Da ist nichts zum Schließen dran.
+Non c'è nulla da chiudere.
+Das schaffe ich so nicht.
+Non riesco a farlo.
+Das will ich da nicht rein tun.
+Non voglio metterci nient'altro.
+Die einzige Lüftung für diese stickige Abstellkammer.
+L'unica zona di aereazione per questo ripostiglio chiuso.
+Moment! Da ist doch irgendwas drin...
+Aspetta! C'è qualcosa dentro...
+Das kann ich nicht mehr schließen.
+Non riesco a far sì che si chiuda.
+Ich komme nicht dran.
+Non posso arrivarci.
+Da liegt etwas Schwarzes im Lüftungsschacht.
+C'è qualcosa di nero nel condotto di aereazione.
+Mein schwarzer Spitzen-BH!
+Il mio reggiseno di pizzo nero!
+STRIKE!
+STRIKE!
+Für heute hab ich genug Sport gemacht.
+Per oggi, ho fatto abbastanza sport.
+Regal
+scaffale
+Lüftungsgitter
+grata di aereazione
+kleinere Preise
+premi minori
+Nachtschränkchen>v
+comodino>v
+Pokal
+coppa
+Desinfektionsmittel
+disinfettante
+Lukenöffner>p
+apribotola>p
+Lüftungsschacht
+condotto di aereazione
+schwarzes Etwas>p
+qualcosa di nero>p
+Bowlingkugel
+palla da bowling
+Ein Hängeschrank.
+Una credenza.
+Den kann ich nicht mitnehmen.
+Non ce la faccio a trasportare.
+Der ist doch zu.
+Lo è già.
+Es passiert nichts.
+Non succede nulla.
+Das kann ich hier nicht anwenden.
+Non si può usare qui.
+Eine Mikrowelle.
+Un forno a microonde.
+Die ist fest auf die Arbeitsplatte geschraubt.
+È ben fissato al tavolo da lavoro.
+Die Mikrowelle ist bereits geschlossen.
+Il forno a microonde è già chiuso.
+Damit geht sie nicht auf.
+Non posso aprirlo così.
+Ein Kühlschrank.
+Un frigorifero.
+Den packe ich nicht ein.
+Non riesco ad afferrare.
+Der Kühlschrank ist bereits geschlossen.
+Il frigorifero è già chiuso.
+Wenn der bewegt werden soll, lasse ich lieber Bernard dafür schuften.
+Quando si dovrà spostare, lo farò fare a Bernard.
+Der bewegt sich nicht.
+Non si muove.
+Ein Herd.
+Un forno.
+Der ist hier festgemacht.
+Se ne sta qui.
+Der ist hier nur zur Dekoration.
+È qui solo come decorazione.
+Der Ofen ist bereits geschlossen.
+Il forno è già chiuso.
+Da passiert nichts.
+Non succede nulla.
+Das macht hier kein Sinn.
+Questo non ha senso.
+Unser Geschirrspüler.
+La nostra lavastoviglie.
+Der Geschirrspüler ist bereits geschlossen.
+La lavastoviglie è già chiusa.
+Ich kann unseren Garten sehen.
+Posso vedere il nostro giardino.
+Es ist doch zu.
+Lo è già.
+Es lässt sich nicht bewegen.
+Non si può spostare.
+Damit geht das Fenster nicht auf.
+Non si può aprire la finestra con ciò.
+Ich sollte die Schublade erst mal öffnen.
+Dovrei aprire il cassetto, prima.
+Eine Spüle.
+Un lavello.
+Da ist ein Lappen drin. Den nehm ich mal mit.
+C'è uno strofinaccio dentro. Viene via con me.
+Ich muss mir jetzt nicht die Hände waschen.
+Non ho bisogno di pulire le mani.
+Das macht mal so überhaupt gar keinen Sinn.
+Non ha affatto alcun senso.
+Damit würde ich die Spüle verstopfen.
+Potrei intasare il lavello.
+Der ist mir zu schwer.
+Troppo pesante per me.
+Das habe ich schon getan.
+L'ho già fatto.
+Den kann ich nicht bewegen.
+Non posso spostarlo.
+Das muss nicht gekühlt werden.
+Non deve essere refrigerato.
+Ich will sie nicht raus reissen.
+Non voglio che si strappi.
+Das will ich nicht da rein tun.
+Non voglio metterci questa roba qui.
+Ein Mikrowelle.
+Un forno a microonde.
+Ist doch schon offen.
+Lo è già.
+Das sollte ich da nicht rein tun.
+Non potrei metterci questa roba qui.
+Der ist doch schon offen.
+Lo è già.
+Der mittlere Schrank ist nur Dekoration. Den kann ich nicht öffnen.
+La credenza al centro è solo per decorazione. Non posso aprirla.
+Eine Einkaufsliste.
+Una lista della spesa.
+Wozu soll ich etwas einkaufen?
+Perché dovrei comprare qualcosa?
+Der Kühlschrank füllt sich immer von alleine wenn Mom und Dad da sind.
+Il frigorifero è sempre pieno quando mamma e papà sono qui.
+Das geht nicht auf.
+Non si può aprire.
+Wie um alles in der Welt soll ich einen Zettel schließen?
+Come chiunque altro, come potrei aprire un pezzo di carta?
+Das bringt nix.
+Non porta a nulla.
+Es ist schon offen.
+Lo è già.
+Lieber nicht. Hier muss dringend gelüftet werden.
+Meglio di no. Qui c'è bisogno di far aerare.
+Das will ich nicht aus dem Fenster schmeißen.
+Non voglio lanciarlo fuori dalla finestra.
+Da ragt ein Ast zum Fenster herein.
+C'è un ramo che attraversa la finestra.
+Ich brauche keinen dummen Ast.
+Non ho bisogno di uno stupido ramo.
+Wie soll ich das benutzen?
+Come dovrei usarlo?
+Ich drück da gar nichts!
+Non si può premere!
+Nein lieber nicht.
+No. Meglio di no.
+Weiter kann ich daran nicht ziehen. Er hängt fest.
+Non riesco a tirarlo fuori. È bloccato.
+An dem Ast hängt irgend eine rote Frucht.
+Da un ramo pende un frutto rosso.
+Ich ess das nicht - ich bin auf Diät!
+Non mangio mica - sono a dieta!
+Igitt!
+Uh!
+Da sind noch verfaulte Erdbeeren drin.
+Ci sono ancora le fragole marce, dentro.
+Hast du sie noch alle?!
+Sei pazzo?!
+Ich fasse bestimmt nicht in diesen stinkenden Biomüll!
+Non ci metto mica le mani in questi rifiuti organici puzzolenti!
+Das will ich nicht in den Biomüll werfen!
+Non voglio che si getti tra i rifiuti organici!
+'Bio Diät-Jogurt'
+'Yogurt bio-dietetico'
+'Nur 0,0000000001% Fett'
+'Solo 0,0000000001% di grassi'
+Das gibts doch nicht!
+Non ci credo.
+Da hat schon wieder jemand meinen ganzen Diät-Jogurt aufgegessen!
+C'è qualcuno che ha mangiato tutto il mio yogurt dietetico, ancora!
+Was ist das denn?
+Cos'è questo?
+Was zur Hölle macht denn ein ...
+Che diavolo sta...
+Hey, das ist ja mein Lieblingstanga!
+Ehi, quello è il mio tanga preferito!
+Moms Turbomixer.
+Il frullatore di mamma.
+Der häckselt alles klein.
+Sminuzza tutto in piccoli pezzi.
+Yeah! Noch mehr Polster.
+Yeah! Un altro cuscino fatto a pezzi.
+Irre! So fühlt sich also gehäckseltes Sitzpolster an.
+Wow! È così che si sente un cuscino triturato.
+Der ist mir zu sperrig zum herumschleppen.
+È troppo ingombrante da portare in giro.
+Ich stelle ihn mal hier ab.
+Lo metto qua sopra.
+Der steht da schon ganz gut.
+Sta bene dov'è.
+Er funktioniert.
+Sta funzionando.
+Da ist schon was Gemixtes drin.
+Ci sono pezzi misti dentro.
+Ich komme nicht an die Öffnung. Der Mixer steht zu weit oben.
+Non riesco ad aprirlo. Il frullatore è troppo in alto.
+Jetzt habe ich rotes Fruchtmus im Mixer.
+Ora ho purea di frutta rossa nel frullatore.
+Ich habe das Fruchtmus in das Glas getan.
+Ho messo la polpa di frutta nel vasetto.
+Die Kondome könnten an die Klingen geraten und Löcher bekommen.
+I contraccettivi si potrebbero tagliare e perforare.
+Ich habe das Sitzpolster zerhäckselt.
+Ho fatto a pezzi il cuscino da seduta del divano.
+Das möchte ich nicht klein häckseln.
+Non voglio ottenerne dei piccoli pezzi.
+Meine Corsage.
+Il mio corpetto.
+Schrank>o
+mobile>o
+Mikrowelle>o
+forno a microonde>o
+Kühlschrank>o
+frigorifero>o
+Hängeschrank>o
+credenza>o
+Herd
+forno
+Geschirrspüler
+lavastoviglie
+Schublade>o
+cassetto>o
+Spüle
+lavello
+Einkaufliste>l
+lista della spesa
+Schrank>c
+mobile>c
+Kühlschrank>c
+frigorifero>c
+Mikrowelle>c
+forno a microonde>c
+Hängeschrank>c
+credenza>c
+Ast
+ramo
+rote Frucht
+frutta rossa
+Biomüll
+rifiuti organici
+Erdbeerjogurt
+yogurt alle fragole
+Lappen
+panno
+Mixer
+frullatore
+Corsage
+corpetto
+Es ist auf.
+È aperto.
+Unser Fernseher.
+La nostra televisione.
+Das geht nur mit der Fernbedienung.
+Funziona solo con il telecomando.
+Lieber nicht. Ich kenne mich mit diesem Technikfirlefanz nicht aus.
+Meglio di no. Non ho familiarità con queste cianfrusaglie tecnologiche.
+Er ist schon geschlossen.
+È già spenta.
+Ich will ihn nicht verrücken.
+Non voglio spostarla.
+Die Batterien sind leer.
+Le batterie sono scariche.
+Damit geht der Fernseher nicht an.
+Non posso accendere la televisione così.
+Ein Bild von einem wunderschönen Strand.
+Un dipinto di una spiaggia fantastica.
+In ein paar Stunden bin ich auch am Strand.
+Fra poche ore sarò alla spiaggia.
+Ich kann es kaum erwarten!
+Non posso più aspettare!
+Meine Damen und Herren...
+Signore e Signori...
+Gleich sehen sie den Film mit dem Titel:
+Presto in arrivo il film dal titolo:
+'The Secret of Monkey Island'
+'Il Segreto di Monkey Island'
+Das ist mir zu schwer.
+Troppo pesante per me.
+Ich möchte mich jetzt nicht ausruhen.
+Non voglio riposare ora.
+Vergiss es.
+Lascia perdere!
+Das will ich nicht da ablegen.
+Non voglio che si metta qui.
+Das bin ich. In einem sexy Outfit.
+Sono io. In un abitino sexy.
+Damit würde ich das Foto beschädigen.
+Potrei rovinare la foto.
+Ich hasse dunkles Porzellan.
+Odio la porcellana scura.
+Ich habe gerade keine Blume zur Hand.
+Non ho fiori in mano.
+Da ist nichts zum schliessen.
+Niente da chiudere.
+Ich lasse sie da stehen.
+Lo lascerò qui.
+Ich will sie nicht runter schmeißen.
+Non voglio che cada a terra.
+Damit würde ich die Vase beschädigen.
+Potrei rompere il vaso.
+Ein kleiner Tisch.
+Un piccolo tavolo.
+Da steht schon was drauf.
+C'è già qualcosa sopra.
+Ich lasse den da stehen.
+Lo lascerò qui.
+Das kann ich da nicht benutzen.
+Non posso usarlo lì.
+Ist mein Taxi schon da?
+È il mio Taxi quello là fuori?
+Ach, noch nicht.
+Oh, non ancora.
+Ich möchte da nicht raus klettern.
+Non voglio saltarci sopra.
+Eine Steckdose.
+Una presa.
+Die kann ich nicht mitnehmen.
+Non posso portarla con me.
+Und womit?
+E con che cosa?
+Es tut sich nichts.
+Non succede nulla.
+Da passiert auch nichts.
+Non sta succedendo nulla.
+Gute Idee!
+Buona idea!
+Das mache ich dann, wenn ich mit meinem Leben nicht mehr klar komme...
+Farò questo, quando non avrò più chiara la mia vita...
+Der hat keinen Steckdosenanschluss.
+Questo non è l'attacco per la presa.
+Das passt auch so gut in eine Steckdose.
+Andrebbe meglio con una presa per la corrente.
+Die Fernbedienung des Fernsehers.
+Il telecomando della televisione.
+Ich sollte sie nehmen.
+Si dovrebbe raccogliere prima.
+Ich möchte mich nicht setzen.
+Non voglio sedermi.
+Ich will es nicht kaputt machen.
+Non voglio rompere qualcosa.
+Wieder schön sauber.
+Di nuovo pulito.
+Igitt! Das Kissen ist dreckig.
+Uh! Il cuscino è sporco.
+Endlich! Da ist der Schlüssel für meinen Koffer.
+Finalmente! La chiave della mia valigia!
+So fass ich das ganz bestimmt nicht an.
+... di certo non lo tocco.
+Der Lappen ist zu trocken um damit zu putzen.
+Il panno è troppo asciutto per pulirlo.
+Auch wenn ich das Kissen desinfiziere, der Dreck ist dann immer noch da.
+Disinfettare il cuscino, non farà andare via lo sporco.
+Ich sollte ihn zuerst nehmen.
+Si dovrebbe raccogliere prima.
+Flur
+ingresso
+Fernseher
+televisione
+Sofa
+divano
+Foto
+foto
+Vase
+vaso
+kleiner Tisch
+piccolo tavolo
+Steckdose
+presa
+Fernbedienung
+telecomando
+linkes Sitzkissen
+cuscino da seduta sinistro
+rechtes Sitzkissen
+cuscino da seduta destro
+kleiner Schlüssel
+piccola chiave
+Nicht wirklich oder?
+Non è vero?!?
+An der Garderobe???
+Anche sull'attaccapanni???
+So dass alle Besucher meine Unterwäsche sehen können?
+Così che tutti gli ospiti possano vedere la mia biancheria intima?
+BERNARD! Das bekommst du zurück!
+BERNARD! Me la pagherai per questo!
+Lieber nicht, mein bescheuerter Bruder hat da mal wieder alles kontamiert.
+Meglio di no. Quello stupido di mio fratello ha contaminato di nuovo tutto quanto.
+Die Tür ist schon zu
+Lo è già.
+Die Garderobe.
+L'attaccapanni.
+Die bleibt da hängen.
+Se ne sta qui appeso.
+Das hat schon einen Haken. Das braucht nicht noch einen.
+Ha già un gancio. Non ne ha bisogno di altri.
+Was hat mein BH an der Garderobe zu suchen?
+Perché il mio reggiseno sta appeso sull'attaccapanni?
+Na warte, Bernard!
+Te la farò pagare, Bernard!
+Wohnzimmer
+salotto
+Tür>o
+porta>o
+Kleiderhaken
+attaccapanni
+weißer BH>p
+reggiseno bianco>p
+Mom sollte mal wieder die Fenster putzen.
+Mamma dovrebbe pulire di nuovo le finestre.
+Ich möchte da nicht rein klettern.
+Non voglio salirci su.
+'Willkommen'
+'Benvenuto'
+Ich will keine dreckige Fußmatte!
+Non ho bisogno di un tappetino sporco di cibo!
+Meine Schuhe sind doch sauber.
+Le mie scarpe sono veramente pulite.
+Das geht hier nicht.
+Non funziona.
+Da geht es in unsere Garage.
+È il nostro garage.
+Das Tor ist geschlossen.
+La porta è chiusa.
+Damit bekomme ich das Tor nicht auf.
+Non posso aprire la porta in tal modo.
+Ein Briefkasten.
+Una cassetta postale.
+Den will ich nicht mitnehmen.
+Non voglio portarla con me.
+Er beweget sich nicht.
+Non si sposta.
+Dazu sollte ich ihn vorher öffnen.
+Dovrei aprirla prima.
+Nichts drin.
+Niente dentro.
+Es ich doch nichts drin.
+Non c'è niente dentro.
+Ich habe gerade keine Post zu verschicken.
+Non ho bisogno di spedire della posta.
+Ich möchte das nicht verschicken!
+Non voglio che si spedisca a qualcuno!
+Ein Briefkastenfähnchen.
+Una bandierina della cassetta postale.
+Das will ich nicht mitnehmen.
+Non voglio portarla via con me.
+Das kann ich nicht schliessen.
+Non posso chiuderla.
+Ich kann es nicht drücken.
+Non posso spingerla.
+'An Dave Miller'
+'A Dave Miller'
+Das ist wohl eine Falschlieferung.
+È stata consegnata forse alla persona sbagliata.
+Da ist eine Bowlingkugel drin.
+C'è una palla da bowling dentro.
+Das ist zu groß zum mitnehmen.
+È troppo grande per portarlo con me.
+Ein Busch mit dicken Dornen. Pfui!
+Un cespuglio con spine robuste. Puh!
+Ich reiße mir an den Dornen noch meine Kleidung auf!
+Potrei strappare i miei abiti attraverso queste spine!
+Fußabtreter
+zerbino
+Garagetor>o
+porta del garage
+Briefkasten>o
+cassetta postale
+Paket>l
+pacchetto>l
+Busch
+cespuglio
+Briefkasten>c
+cassetta postale>c
+Fähnchen>u
+bandierina>u
+Paket>c
+pacchetto>c
+HAAAAAAAALT!
+STOOOOOOOOOP!
+Wartet auf mich!
+Aspettami!
+Ich brauche ihn nicht öffnen.
+Non ho bisogno di aprirla.
+Es ist kein Brief da.
+Non vi è nessuna lettera all'interno.
+Das erkennt man daran, dass die Fahne unten ist.
+Lo so perchè la bandierina è abbassata.
+spracheDeutsch
+lingua tedesca
+Ich habe keine Zeit mich auszuruhen.
+Non ho tempo per riposarmi.
+Das muss nicht gemütlich sitzen.
+Nessun bisogno di sedersi comodamente.
+Das Glas ist bereits voll.
+Il vasetto è già pieno.
+Das muss nicht geputzt werden.
+Non c'è necessità di una pulizia.
+Die Kondome an der Schale zu reiben bringts echt nicht.
+I contraccettivi a contatto con la pelle non danno alcun risultato.
+Lieber nicht. Die Bürste ist viel zu schmal.
+Meglio di no. Lo spazzolino è troppo piccolo.
+Kondome sind von Natur aus desinfiziert.
+I contraccettivi sono disinfettati naturalmente.
+Ich möchte nicht schwanger werden!
+Non voglio essere una gestante!
+Das muss nicht verhüten.
+Non c'è bisogno che si usi un contraccettivo.
+Die sind schon fruchtig!
+Sono già alla frutta!
+Das braucht kein Makeup.
+Non ha bisogno di trucco.
+Das ist nur für den Nagellack.
+È da usare solo con lo smalto.
+Und nicht für den Lippenstift.
+E non per il rossetto.
+Der hat einen großen Knopf um das CD-Fach zu öffnen.
+Ha un grande pulsante per aprire il vano CD.
+Da braucht man keine Kulimine für.
+Non hai bisogno di una ricarica.
+So dreckig ist der auch wieder nicht.
+Non è proprio sporco.
+Das funktioniert auch ohne Batterien ganz gut.
+Il funzionamento è buono anche senza batterie.
+Das kann ich nicht mit dem Zettel benutzen.
+Non c'è modo di poter usare con la lista.
+Ich muss mich jetzt nicht abtrocknen.
+Non mi devo asciugare per ora.
+Ich möchte das nicht im Handtuch einwickeln.
+Non voglio che questa cosa si avvolga nell'asciugamano.
+Mit was?
+Con cosa?
+Das braucht keinen Lukenöffner.
+Non ha bisogno di un apribotola.
+Was soll ich damit aufschließen?
+Cosa potrebbe aprire così?
+Der Schlüssel passt da nicht rein.
+La chiave non entra lì.
+Mit was soll ich ihn benutzen?
+Con che cosa dovrei usarlo?
+Aber zum putzen ist der Lappen eh viel zu trocken.
+Ma è meglio che il panno sia asciutto prima di poterci pulire qualcosa.
+Igitt! Ich esse doch nicht irgendwelche Früchte die ich nicht kenne!
+Uh! Non voglio mangiare frutta che non conosco!
+Ich will die Frucht nicht damit zerstampfen.
+Non voglio renderla una poltiglia.
+Die Frucht ist zu groß für die Öffnung.
+La frutta è troppo grande per metterla dentro.
+Es ist leer.
+È vuoto.
+Das möchte ich nicht ins Glas tun.
+Non voglio che entri nel vasetto.
+Das braucht keinen roten Touch.
+Non ha bisogno di un tocco di rosso.
+Löcher in die Kondome stechen?
+Fare dei buchi nei contraccettivi?
+Soll ich im Urlaub etwa schwanger werden???
+Dovrei diventare una gestante durante le vacanze???
+Das hat schon genug Löcher.
+È già pieno di buchi.
+Das braucht nicht gepiekst werden.
+Non si sente il bisogno di farsi perforare.
+Die ist ganz schön spitz!
+È abbastanza tagliente!
+Das will ich nicht in die Polsterwolle stecken.
+Non voglio che si metta nell'ovatta.
+Das macht es auch nicht heißer.
+Non lo renderebbe più 'focoso'.
+Das braucht keine Unterwäsche.
+Non serve far provare della biancheria intima.
+Igitt! Wie soll das denn dann bitte aussehen???
+Uh! Come sarà dopo?
+Gehts noch???
+Sei pazzo???
+Ich will das nicht kaputt ätzen.
+Non voglio rompere l'attacco.
+Das braucht sich nicht ausruhen.
+Non ha bisogno di riposare.
+Wie soll das denn bitte aussehen?
+Come sarà dopo?
+spracheEnglisch
+lingua inglese
+Oh shit! Es ist schon %d:%d Uhr!
+Oh diamine! Sono già le %d:%d!
+Wanduhr
+orologio da parete
+Waschmaschine>u
+lavatrice>u
+In die Richtung bewegt sich nichts.
+Non posso spingere in questa direzione.
+Ich werde nicht spülen.
+Non ho bisogno di lavare qualcosa.
+Dafür ist Mom zuständig.
+Questo è responsabilità della mamma.
+Den mittleren Schrank kann man nicht öffnen.
+Il mobile centrale non può essere aperto.
+Warum auch immer.
+Per qualche ragione.
+Oh shit! Es ist schon %d:0%d Uhr!
+Oh diamine! Sono già le %d:0%d!
+Das braucht nicht gepiekst zu werden.
+Non servono buchi.
+Oh mein Gott.
+Oh, Santo Cielo.
+Was ist denn das für ein Krach?
+Cos'è questo rumore?
+So kann ich mich doch gar nicht konzentrieren!
+Non posso proprio concentrarmi in questo modo!
+Das würde den Preis schon gut zerstören.
+Questo farà diminuire il prezzo abbastanza.
+Nur der Eierkopf braucht halt einen Eierkopfpreis.
+Solo delle 'Teste d'uovo' hanno bisogno di un prezzo da Testa-di-uovo.
+Das nützt nicht gegen den Eierkopf.
+Non è utile contro la 'Testa d'Uovo'.
+Das kann man nicht mit den Büchern benutzen.
+Non si può usare con i libri.
+Die Pflanze braucht das nicht wirklich.
+La pianta non ne ha davvero bisogno.
+Das kann ich noch anderswo gebrauchen.
+È meglio farlo altrove.
+Der Lukenöffner passt nicht ins Fenster.
+L'apribotola non funziona con la finestra.
+Die funktioniert nur mit dem Fernseher.
+Funziona solo con la televisione.
+Gute Idee.
+Buona idea.
+Leider würden mir die Eltern bestimmt Dateverbot für das Zerstören des Computers aufzwängen.
+Sfortunatamente i miei genitori mi hanno proibito a tutt'oggi di poter distruggere ancora il computer.
+Warum sollte ich es anhalten?
+Perchè dovrei farla smettere?
+Das passt nicht zu so einem komischen Ding.
+Non entra in questa cosa bizzarra.
+Das passt nicht zu dem Kissen.
+Non si adatta al cuscino.
+Nein. Das bleibt jetzt so.
+No. Questi busti rimangono così.
+Damit bekomme ich die Luke nicht auf.
+Non posso aprire la botola in questo modo.
+Ich möchte die Uhr nicht von der Wand schlagen.
+Non voglio staccare l'orologio dalla parete.
+Das kann ich nicht mit der Uhr benutzen.
+Non funziona con l'orologio.
+Ich will nicht meinen schönen Spiegel kaputt machen.
+Non voglio rompere il mio bellissimo specchio.
+Das kann ich nicht mit dem Spiegel benutzen.
+Non si può usare con lo specchio.
+Ich will nicht mit mein Bett zumüllen.
+Non voglio ingombrare il mio letto.
+Ich möchte das nicht in die Kommode tun.
+Non voglio che stia nella cassettiera.
+Ich möchte das nicht in den Schrank tun.
+Non voglio che stia nel guardaroba.
+Ich möchte nicht mein schönes Kissen damit verschandeln.
+Non voglio rovinare il mio bellissimo cuscino.
+Ich möchte nicht mein schönes Poster damit verschandeln.
+Non voglio rovinare il mio bellissimo poster.
+Ich möchte das nicht in der Wanne waschen.
+Non voglio che si lavi nella vasca da bagno.
+Um Sachen damit zu waschen, muss man sie in die Luke tun.
+Per poterci lavare le cose, dovrei prima metterle nel cestello.
+Das möchte ich nicht in den Spiegelschrank legen.
+Non voglio metterci niente nello specchio.
+Das sollte reichen.
+Dovrebbe essere sufficiente.
+Das kann ich nicht mit dem Bild benutzen.
+Non si può usare con il poster.
+Das kann ich nicht mit dem Schlauch benutzen.
+Non si può usare con il tubo.
+Ich denke das gibt keine gute chemische Mischung.
+Penso che non sarà una buona miscela chimica.
+Das macht die Zeitschriften auch nicht interessanter.
+Non renderà le riviste più interessanti.
+Da nützt ein leerer Benzinkanister auch nichts.
+Una bomboletta di gas vuota è inutile qui.
+Das will ich bestimmt nicht für immer hier festkleben!
+Sicuramente non mi ci vorrò attaccare io per sempre.
+Ich habe das Gefühl, dass das anders funktioniert.
+Ho la sensazione che dovrebbe funzionare in modo diverso.
+Das passt nicht ins Schlüsselloch.
+Non si adatta al buco della serratura.
+Das kann ich nicht mit dem Telefonbuch benutzen.
+Non si può usare con l'elenco telefonico.
+Der Herd ist nur zur Dekoration.
+Il forno è solo per decorazione.
+Da kann man nichts rein tun.
+Non posso metterci qualcosa qui.
+Ich möchte das nicht spülen.
+Non voglio lavarci niente.
+Das würde die Zahnbürste schon gut desinfizieren.
+Dovrebbe disinfettare lo spazzolino abbastanza.
+Aber das Plastik könnte schmelzen.
+Ma la plastica potrebbe sciogliersi.
+Das hat Bernard schon einmal getan.
+Lo ha già fatto Bernard.
+Und damit die halbe Küche in die Luft gesprengt.
+E così salterebbe in aria metà della cucina.
+Igitt! Ich mag kein aufgewärmtes Fruchtmus!
+Uh! Non mi piace la polpa di frutta riscaldata!
+Igitt! Ich mag keine aufgewärmte Früchte!
+Uh! Non mi piace la frutta riscaldata!
+Das möchte ich nicht in den Schrank legen.
+Non voglio che stia nel mobile.
+'The Tale of Donkey Island'
+'L'Avventura di Donkey Island'
+Das ist bereits sauber genug.
+È già sufficientemente pulito.
+Ich sollte ihn zuerst mitnehmen.
+Dovrei raccoglierlo prima.
+Es gibt bestimmt einen einfacheren Weg das zu öffnen.
+Sicuramente c'è un modo migliore per aprirlo.
+Das will ich nicht mit der Post verschicken.
+Non voglio che si invii per posta.
+Das will ich nicht in den Busch werfen.
+Non voglio gettar qualcosa nel cespuglio.
+Der Community von Maniac Mansion Mania
+la community di Maniac Mansion Mania
+sowie allen Fans.
+e di tutti i fans.
+]Italienische Übersetzung von MIWorld - miworld.eu]
+]Traduzione italiana a cura di MIWorld - miworld.eu]
+]Italienische Übersetzung:]
+]Traduzione italiana:]
+MIWorld - miworld.eu
+a cura di MIWorld - miworld.eu
+Maniac Mansion Mania 90: Kofferpacken
+Maniac Mansion Mania 90: fare la valigia

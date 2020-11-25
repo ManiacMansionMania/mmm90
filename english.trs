@@ -1,0 +1,2554 @@
+// AGS TRANSLATION SOURCE FILE
+// Format is alternating lines with original game text and replacement
+// text. If you don't want to translate a line, just leave the following
+// line blank. Lines starting with '//' are comments - DO NOT translate
+// them. Special characters such as [ and %%s symbolise things within the
+// game, so should be left in an appropriate place in the message.
+// 
+// ** Translation settings are below
+// ** Leave them as "DEFAULT" to use the game settings
+// The normal font to use - DEFAULT or font number
+//#NormalFont=DEFAULT
+// The speech font to use - DEFAULT or font number
+//#SpeechFont=DEFAULT
+// Text direction - DEFAULT, LEFT or RIGHT
+//#TextDirection=DEFAULT
+//  
+// ** REMEMBER, WRITE YOUR TRANSLATION IN THE EMPTY LINES, DO
+// ** NOT CHANGE THE EXISTING TEXT.
+Maniac Mansion Mania 90: Kofferpacken
+Maniac Mansion Mania 90: Packing the suitcase
+Hast du zufällig meinen Kofferschlüssel gesehen?
+Have you seen the key of my suitcase?
+Wo zur Hölle ist meine ganze Unterwäsche hin!?
+Where the hell is my underwear!?
+Na warte! Das zahlst du mir noch heim!
+That'll cost you!
+Ey, Eierkopf!
+Ey, egghead!
+Was gibts, Zimtzicke?
+Whats going on, stupid cow?
+Ja klar. Ich hab ihn gut versteckt.
+Of course. I've hidden it at a good place.
+Und wo??
+And where??
+Tja, das verrate ich dir nicht.
+I would never tell you.
+AAAAAAARG!
+AAAAAAARG!
+Hehehehe.
+Hehehehe.
+Im ganzen Haus verteilt.
+Spreaded in the whole house.
+Viel Spaß beim Suchen.
+Happy Searching!
+Ist wie an Ostern, ne?
+It will be like Easter!
+Hehe.
+Hehe.
+Jaja, aber jetzt verzieh dich erstmal wieder!
+Yeah, but now leave my room!
+Ich muss noch für meine Physik-Klausur lernen.
+I have to study for my phyics test.
+Sonst schreib ich noch eine 1- !
+Otherwise I'll get an A- !
+Credit Module has reached maximum %d lines, contact game author and tell them to increase CREDIT_MAX_LINES
+
+%c
+
+A
+
+%4d %4d %s
+
+Credits module 1.13 by SSH
+
+*ERROR*: Konnte %s nicht zu spielbaren Chars hinzufügen.
+
+Ist bereits vorhanden.
+
+Bereits drei spielbare Chars vorhanden.
+
+*ERROR*: Hier bin ich doch :)
+
+*ERROR*: Ne, %s ist nicht in der Liste!
+
+*ERROR*: Kann %s jetzt nicht entfernen.
+
+*ERROR*: Kann %s nicht entfernen, da er nicht hinzugefügt wurde.
+
+Die ist abgesperrt.
+It's closed.
+Mit dem Schlüssel geht es nicht.
+That key doesn't fit.
+Die Tür zum Schulgang.
+
+Da geht es zum Flur.
+It's the door to the hallway.
+Da geht es ins Zimmer von meinem Bruder, dem nervigen Eierkopf.
+It's the door to the room of my stupid brother.
+Da geht es in mein wunderhübsches Zimmer.
+It's the door to my pretty room.
+Da geht es zum Bad.
+It's the door to the bathroom.
+Da geht es zum Schlafzimmer.
+It's the door to the sleeping room.
+Da geht es zum Wohnzimmer.
+It's the door to the living room.
+Da geht es zur Bibliothek.
+
+Da geht es zur Kammer.
+It's the door to the storeroom.
+Da geht es zum Esszimmer.
+
+Da geht es zur Küche.
+It's the door to the kitchen.
+Ich hab noch nicht alle Sachen gepackt!
+I haven't packed all things yet!
+Da geht es nach draussen.
+It's the door to outside.
+Da geht es rein.
+It's the door to the house.
+Da geht es zum Keller.
+It's the door to the cellar.
+Damit geht es nicht.
+That doesn't work.
+Gehe zu %s
+Go to %s
+Schau an %s
+Look at %s
+Rede mit %s
+Talk to %s
+Gib !s an %s
+Give !s to %s
+Gib %s
+Give %s
+Nimm %s
+Pick up %s
+Benutze !s mit %s
+Use !s with %s
+Benutze %s
+Use %s
+Öffne %s
+Open %s
+Schließe %s
+Close %s
+Drücke %s
+Push %s
+Ziehe %s
+Pull %s
+Wechsle zu %s
+Switch to %s
+!s
+!s
+%s
+%s
+%d. 
+%d.
+>
+>
+$
+$
+%s>%c
+%s>%c
+>n
+>n
+JjNn
+YyNn
+a_button_give 5 802 803 Dd
+a_button_give 0 1 2 Qq
+a_button_pick_up 2 800 801 Ee
+a_button_pick_up 1 7 8 Ww
+a_button_use 1 794 795 Ww
+a_button_use 2 13 14 Ee
+a_button_open 3 790 791 Aa
+a_button_open 3 3 4 Aa
+a_button_look_at 0 788 789 Qq
+a_button_look_at 4 9 10 Ss
+a_button_push 7 798 799 Xx
+a_button_push 5 15 28 Dd
+a_button_close 4 796 797 Ss
+a_button_close 6 5 6 Yy
+a_button_talk_to 8 804 805 Cc
+a_button_talk_to 7 11 12 Xx
+a_button_pull 6 792 793 Yy
+a_button_pull 8 29 30 Cc
+font_320: 1  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+
+font_640: 13 14 14 14 14 14 14 14 14 14 14 14 14 14 14
+
+Ach nö, will heute keine Türen schleppen.
+I don't like to carry doors with me.
+Man kann auch eine Tür 'öffnen' oder 'schließen'.
+It's useful to 'open' or 'close' a door.
+Das ist doch zu.
+It's already closed.
+Das ist schon offen.
+It's already open.
+Das ist schon zu.
+It's already closed.
+error: SetString buffer error!
+
+error: GetString buffer error!
+
+@
+
+%s%c
+
+error: Talk view isn't assigned!
+
+%%%dc
+
+scrnshot.bmp
+
+Besser nicht.
+Better not.
+Das klappt so überhaupt gar nicht.
+That doesn't work.
+Ich sehe nichts besonderes.
+There isn't something interesting.
+Da bewegt sich nichts.
+Nothing is moving.
+Das kann ich nicht mitnehmen.
+I cannot pick up this.
+Es scheint nicht aufzugehen.
+It doesn't open.
+Damit möchte ich nicht reden.
+I don't like to talk with that.
+Das klappt so nicht.
+That doesn't work.
+Ich möchte das nicht kaputt ätzen.
+I don't like to corrode this.
+Das muss nicht desinfiziert werden.
+That doesn't have to get disinfectated.
+Der Kuli schreibt nicht mehr.
+The pen doesn't write any more.
+Das hab ich schon bei mir. Ich kann es nicht noch einmal aufnehmen.
+I already have this in my pocket.
+Wozu?
+Why?
+Es bewegt sich nicht.
+It doesn't move.
+Das lässt sich nicht öffnen.
+That cannot be opened.
+Das lässt sich nicht schließen.
+That cannot be closed.
+Das ist jemand anderes.
+That's somebody different.
+Zu schwer.
+Too heavy.
+Das bringt nichts.
+That won't work.
+Schließen? Gehts noch?
+Closing? Are you kidding me?
+Öffnen? Gehts noch?
+Opening? Are you kidding me?
+Benutzen? Gehts noch?
+Using? Are you kidding me?
+Eine Fernbedienung.
+A remote control.
+Wozu? Die Batterien sind sowieso leer.
+Why? The batteries are low.
+Ein Lukenöffner.
+A hatch opener.
+Bernards Daunenkissen.
+Bernard's pillow.
+Gemütlich.
+Cozy.
+Der Schlüssel für meinen Koffer.
+The key to my suitcase.
+Mein kleiner Bruder.
+My little brother.
+Voll der Nerd.
+What a nerd.
+Irgendeine rote Frucht.
+A red fruit.
+Keine Ahnung was für eine.
+Dunno which one.
+Ist auch egal. Die sehen eh alle gleich aus.
+Never mind. They all look the same.
+Ich mag lila.
+I like purple.
+Ich mag das Kissen.
+I like the pillow.
+Es ist kuschelig weich.
+It's very cozy.
+Und...es ist lila!
+And... it's purple!
+Das ist mein Lieblingstanga.
+That's my favorite tanga.
+Ich ess das nicht. Ich bin auf Diät.
+I won't eat this. I have a diet.
+Hmmjam, leckere Kondome.
+Hmmjam, tasty condoms.
+Gewöhnliche, langweilige Kondome.
+Common, boring condoms.
+Fruchtig lecker.
+Fruity and tasty.
+Ein Glas mit rotem Fruchtmus.
+A glass with red fruit gruel.
+Ein leeres Jogurtglas.
+An empty glass of yogurt.
+So ist die Zahnbürste schon gleich viel angenehmer.
+The toothbrush is now much more pleasing.
+Meine Zahnbürste.
+My toothbrush.
+Sie hat keine Borsten mehr.
+It hasn't any bristles anymore.
+Eine Flasche Desinfektionsmittel.
+A bottle of disinfectants.
+Wenns mal wieder richtig schmutzig war.
+If you had a very dirty time.
+Mein weißer BH.
+My white bra.
+Der BH hat sich beim Waschen verfärbt.
+The bra has changed its color while washing.
+So mag ich ihn.
+Now I like it.
+Das sind 2 Batterien.
+These are 2 batteries.
+Die Batterien passen nicht in die Fernbedienung.
+The batteries don't fit in the remote control.
+Mein flauschiges, rotes Handtuch.
+My fluffy red towel.
+Im Bowling war ich schon immer eine Niete.
+I was never good in bowling.
+Nur Bernard ist noch schlechter.
+Only Bernard ist worse.
+Mein schwarzer BH mit sexy Spitzen.
+My sexy black lace bra.
+Der Lappen ist klitschenass.
+The dishcloth is very wet.
+Den braucht man, wenn mal wieder die Spülmaschine kaputt ist.
+One needs this, when the dishwasher is broken.
+Das ist Bernards Zahnbürste.
+Thats Bernard's toothbrush.
+Ich putze mir doch nicht die Zähne mit Bernards Zahnbürste!
+I would never brush my teeth with Bernard's toothbrush!
+Das macht die Zahnbürste schon gleich viel angenehmer.
+The toothbrush is now much more pleasing.
+Was soll ich desinfizieren?
+What should I disinfectate?
+Die ist schon desinfiziert.
+That's already disinfectated.
+Mal sehen was jetzt passiert...
+Well, see what will happen now...
+Huch!
+Yikes! 
+Das ist ein selbstdesinfizierender Lappen.
+That dishcloth can disinfectate itself.
+Ich will das nicht desinfizieren.
+I don't like to disinfectate this.
+Nein, das sind nur gewöhnliche, langweilige Kondome.
+No, these are only common, boring condoms.
+Hier ist niemand, mit dem ich die benutzen kann.
+Nobody's here to use it with.
+Mein Lippenstift. Leider ist er schon leer.
+My lipstick. Unfortunately it is empty.
+Ein Lippenstift. Essentiell für gutes Aussehen.
+A lipstick. Essential for good looking.
+Ein Kästchen voller Makeup. Das Allerwichtigste zum Überleben.
+A case with makeup. Much important to survive.
+Leider fehlt noch der Lippenstift.
+Unfortunately the lipstick is missing.
+Ich bin für heute schon geschminkt.
+I already made up for today.
+Der Lippenstift ist leer. So nützt er mir nichts.
+The lipstick is empty. It's useless to me.
+Der Lippenstift passt perfekt zu meinem anderen Makeup.
+The lipstick fits perfectly to my other makeup.
+Sexy...
+Sexy...
+... und heiß!
+... and hot!
+Eine sexy Corsage.
+A sexy corsage.
+Leider etwas klamm geworden und nicht mehr heiß genug.
+Unfortunately it is not hot enough.
+'Nagellackentferner - Superstark'
+'Nail lacquer remover - ultra strong'
+'WARNUNG: Kann in Verbindung mit Alkohol zu starken Verätzungen der Haut führen!'
+'WARNING: Never mix with alcohol or you will corrode your skin!'
+Klasse! Ich habe selber eine stark ätzende Säure hergestellt!
+Great! I mixed up my own corroding acid!
+So viel Fähigkeiten in Chemie hab ich mir gar nicht zugetraut.
+I never thought I have that skills in chemical stuff.
+Ich will meinen Nagellack noch nicht entfernen.
+I don't want to remove my nail lacquer.
+Das bin ich!
+Thats me!
+Mein alter Discman.
+My old discman.
+Wozu noch so einen 90er-Kram benutzen, wenn es iPods gibt?
+Why should I use this 90-stuff, when there are iPods?
+Es sind keine Batterien im Discman.
+The discman has a lack of batteries.
+Ohne CD macht der Discman garnichts.
+Without CD the discman wouldn't do anything.
+Die Musik über Kopfhörer zu hören, nützt mir nichts gegen Bernard.
+Listening music with earphones wouldn't annoy Bernard enough.
+Wo soll ich die Batterien reintun?
+Where should I put the batteries?
+Womit?
+With what?
+Ich habe die Mine heraus geholt.
+I took the refill out of the pen.
+Klick-Klack.
+Click-Clack.
+'Ultra Hardcore Gabba'
+'Ultra Hardcore Gabba'
+Ui. Toll.
+Ui. Nice!
+Der Schlüssel von der Abstellkammer.
+The key to the storeroom.
+Ich habe schon alles aufgeschrieben.
+I've already written everything on it.
+Ein Kugelschreiber.
+A ball pen.
+Das kommt dabei raus, wenn man Sitzkissen in den Mixer tut.
+That's the result of mixing some cushions;
+Zum Zähne putzen ist jetzt keine Zeit.
+I have no time to brush my teeth.
+Text
+Text
+Wie kann ich Ihnen dienen?
+How can I help you?
+Speichern
+Save
+Laden
+Load
+Spielen
+Return
+Beenden
+Exit
+@OVERHOTSPOT@
+
+Pause.  Leertaste für weiter.
+Pause. Press Space to continue.
+Wählen Sie ein Spiel zum Laden
+Choose a game to load
+Abbruch
+Cancel
+Name für das Spiel
+Name of the game
+OK
+OK
+99.
+
+Sind Sie sicher, dass Sie aufhören wollen? (J/N)
+Are you sure, you want to quit? (Y/N)
+Sind Sie sicher, das Sie neustarten wollen? (J/N)
+Are you sure, you want to restart? (Y/N)
+Dave
+
+Syd
+
+Michael
+
+Wendy
+
+Bernard
+
+Razor
+
+Jeff
+
+Dr. Fred
+
+Nurse Edna
+
+Weird Ed
+
+Meteor
+
+Green Tentacle
+
+Purple Tentacle
+
+Mark Eteer
+
+Wink Smiley
+
+Police
+
+Sandy
+
+Marcy
+
+Britney
+
+Mandy
+
+Andy
+
+Koslowski
+
+Radiosprecher
+
+Postbote
+
+New character
+
+Fernbedienung>u
+remote control>u
+Lukenöffner>u
+hatch opener>u
+Kissen>u
+pillow>u
+linkes Sitzkissen>u
+left seat cushion>u
+rechtes Sitzkissen>u
+right seat cushion>u
+kleiner Schlüssel>u
+small key>u
+Spüllappen>u
+dishcloth>u
+nasser Spüllappen>u
+wet dishcloth
+Batterien>u
+batteries>u
+rote Frucht>u
+red fruit>u
+rotes Handtuch>u
+red towel>u
+Packzettel>l
+packing note>l
+Kondome>u
+condoms>u
+weißer BH>u
+white bra>u
+pinker BH>u
+pink bra>u
+schwarzer Spitzen-BH>u
+black lace bra>u
+lila Tanga>u
+purple tanga>u
+Corsage>u
+corsage>u
+blaue Zahnbürste>u
+blue toothbrush>u
+lila Zahnbürste>u
+purple toothbrush>u
+Desinfektionsmittel>u
+disinfectants>u
+lila Kissen>u
+purple pillow>u
+lila Wasserfarbe>u
+purple water color>u
+leeres Jogurtglas>u
+empty glass of yogurt>u
+Glas mit rotem Fruchtmus
+glass of red fruit mash
+fruchtige Kondome>u
+fruity condoms
+desinfizierte Zahnbürste
+disinfectated toothbrush
+Bowlingkugel>u
+bowling ball>u
+Schminkkästchen>u
+makeup case>u
+Lippenstift>u
+lipstick>u
+Nagellackentferner
+nail lacquer remover
+stark blubbernde Säure
+bubbling acid
+Discman>l
+discman
+CD>l
+CD
+rostiger Schlüssel
+rusty key
+Kugelschreiber
+ball pen
+Kugelschreibermine
+ball pen refill
+gehäckselte Polsterreste
+chaffed cushion
+dummy
+
+No hotspot
+
+Hotspot 3
+
+Hotspot 4
+
+Hotspot 5
+
+Hotspot 6
+
+Hotspot 7
+
+Hotspot 8
+
+Hotspot 9
+
+Hotspot 10
+
+Hotspot 11
+
+Hotspot 12
+
+Hotspot 13
+
+Hotspot 14
+
+Hotspot 15
+
+Hotspot 16
+
+Hotspot 17
+
+Hotspot 18
+
+Hotspot 19
+
+Hotspot 20
+
+Hotspot 21
+
+Hotspot 22
+
+Hotspot 23
+
+Hotspot 24
+
+Hotspot 25
+
+Hotspot 26
+
+Hotspot 27
+
+Hotspot 28
+
+Hotspot 29
+
+Hotspot 30
+
+Hotspot 31
+
+Hotspot 32
+
+Hotspot 33
+
+Hotspot 34
+
+Hotspot 35
+
+Hotspot 36
+
+Hotspot 37
+
+Hotspot 38
+
+Hotspot 39
+
+Hotspot 40
+
+Hotspot 41
+
+Hotspot 42
+
+Hotspot 43
+
+Hotspot 44
+
+Hotspot 45
+
+Hotspot 46
+
+Hotspot 47
+
+Hotspot 48
+
+Hotspot 49
+
+Start
+
+Hotspot 1
+
+Hotspot 2
+
+zurück
+back
+[]~
+
+]Diese Episode:]
+]This Episode:]
+Cmdr
+
+]Beta-Tester:]
+
+Champ
+
+Cone Arex
+
+MalleTheRedPhoenix
+
+]Bernard Starterpack]
+
+LucasFan
+
+]BETA-Tester]
+
+Rulaman
+
+]Grafiken]
+]Graphics]
+]Übersetzung für AGS 3.2]
+]Translated to AGS 3.2]
+ZAK
+
+]AdventureGameStudio 3.2]
+
+Chris Jones
+
+]Credit-Modul:]
+]Credit-Module:]
+SSH
+
+]gewidmet:]
+]special thanks to:]
+allen Fans von Maniac Mansion
+all fans of Maniac Mansion
+]ENDE~
+]END~
+]~
+
+Ich habe doch gesagt, dass ich in Ruhe lernen will.
+I already told you that I have to study.
+Also, RAUS!
+So, go OUT!
+Da konnte Klein-Bernardinchen wohl nicht lernen...
+So, Little-Bernardy couldn't study any more...
+...und hat sich in die Bib verkrochen.
+...and escaped to the libary.
+Hehehe.
+Hehehe.
+'Gewinner des Eierkopfpreises.'
+'Winner of the Egghead price.'
+Das passt zu meinem Bruder.
+Yes, that's my brother.
+Was soll ich mit so einem Müll?
+I don't need such a rubbish.
+Nein danke.
+No thanks.
+Ich kann es nicht öffnen.
+I cannot open it.
+Ich kann es nicht schliessen.
+I cannot close it.
+Ich lass es wo es ist.
+I keep it there.
+Das passt hier nicht.
+That doesn't fit.
+Jede Menge unverständlicher Schund.
+A lot of incomprehensible stuff.
+Wie? Bücher kann man öffnen?
+What? How should I open a book?
+Die sind schon zu.
+They are already closed.
+Ich lass sie wo sie sind.
+I'll leave them there.
+Das kann ich hier nicht benutzen.
+I cannot use this here.
+Ich wusste gar nicht, dass Bernard einen grünen Daumen hat.
+I didn't know, that Bernard has green fingers.
+Die bleibt da stehen.
+I'll leave it there.
+Ich vergreife mich nicht an wehrlosen Pflanzen.
+I won't misappropriate harmless plants.
+Es ist nur eine Pflanze.
+It's only a plant.
+Ich lass sie wo sie ist.
+I'll leave it there.
+Das Bett von Bernard.
+Bernard's bed.
+Das bleibt da stehen.
+I'll leave it there.
+Da lege ich mich bestimmt nicht rein!
+I won't sleep in this.
+Nein, danke!
+No, thanks!
+Das geht nicht.
+That doesn't work
+Gute Idee! Ich brauche aber noch mehr davon.
+Good idea! But I will need more of this.
+Bernard, ich wünsche dir einen geruhsamen Schlaf.
+Bernard, I wish you a nice sleep.
+Und viel Spaß mit deiner Polsterallergie.
+And a lot of fun with your cushion allergy.
+Ich kann das Haus von dem fetten Hoagie sehen.
+I can see the house of fat Hoagie.
+Ich brauche jetzt kein Fenster.
+I don't need a window.
+Soll ich es öffnen, oder schliessen?
+Should I open it or close it?
+Es klemmt.
+It's jammed.
+Die Aussicht. Das einzig Gute in diesem Zimmer.
+The viewing. The only good thing in this room.
+Nein, das klemmt bestimmt.
+No, it's definitely jammed.
+Eine Schublade.
+A drawer.
+Die möchte ich nicht mitnehmen.
+I'll leave it there.
+Sie ist zu.
+It's closed.
+Sie ist doch zu.
+It's closed.
+Ich kann sie nicht weiter rein drücken.
+I cannot continue to push it inside.
+Damit kann ich die Schublade nicht öffnen.
+I cannot open the drawer with this.
+Bernards Computer.
+Bernard's computer.
+Das ist doch kein Laptop.
+That isn't a laptop.
+Da blinkt nur so ein grüner Strich.
+Only a green blinking stripe.
+Laaaaaaangweilig.
+Booooooooring.
+Das mache ich nicht.
+I don't do that.
+Der ist irgendwie schon zu.
+It is closed already.
+Ich will ihn nicht verschieben.
+I don't like to move it.
+Da ist jede Menge Schrott drin.
+There is a lot of trash inside.
+Igitt! Ich fasse dieses Nerd-Zeugs bestimmt nicht an!
+Ugh! I wouldn't touch this nerd stuff!
+Sie ist doch schon offen.
+It is already opened.
+Ich will sie nicht raus reißen.
+I don't like to rip it out.
+Wenn ich das da rein tue wird das bestimmt kontaminiert!
+If I put this in there, it surely would become contaminated!
+Sieht aus wie ein Hamsterrad...
+Looks like a wheel for hamsters....
+...nur ohne Hamster.
+... but the hamster is missing.
+Ich hab keine Ahnung wozu man das brauchen sollte.
+I have no idea how to use this.
+Ich möchte nicht.
+I don't like.
+Ich will es nicht verschieben.
+I don't want to move it.
+Ein Daunenkissen.
+A pillow.
+Ich möchte nicht in Bernards Bett schlafen.
+I don't like to sleep in Bernard's bed.
+Das mache ich jetzt nicht.
+I won't do this.
+Wer hat denn da Bernards Bett so eingesaut?
+Who has dirtied up Bernard's bed like this?
+Nein. Das bleibt jetzt da.
+No. It'll stay there.
+Tür>v
+door>v
+Diplom
+certificate
+rechte Schublade>o
+right drawer>o
+linke Schublade>o
+left drawer>o
+Fenster
+window
+Chuck, die Pflanze
+Chuck, the plant
+Bücher
+books
+Bett
+bed
+Perpetuum Mobile
+Perpetuum Mobile
+Computer
+computer
+Schublade>c
+drawer>c
+Kissen
+pillow
+Polsterwolle
+cushion wool
+Die Luke zum Dachboden.
+The hatch to the attic.
+Da komme ich nicht ran.
+I cannot reach it.
+Soll ich sie öffnen, oder schliessen?
+Should I open it or close it?
+Die ist schon zu.
+It's already closed.
+Die Treppe nach unten.
+The stairway.
+Ich brauche jetzt keine Treppe.
+I don't need some stairs.
+Ich kann doch keine Treppe öffnen.
+I cannot open some stairs.
+Ich kann die Treppe nicht schliessen.
+I cannot close some stairs.
+Da geht es zum Dachboden.
+The hatch to the attic.
+Ich kann die Luke nicht mitnehmen.
+I cannot pick up the hatch.
+Die ist schon offen.
+It's already open.
+Die Leiter ist festgeschraubt.
+The ladder is screwed on tightly.
+Ist schon offen.
+It's already open.
+Das ist mein Handtuch.
+That's my towel.
+Ich lasse es immer im Flur trocknen, damit es schön flauschig bleibt.
+I always dry it in the hallway so it stays fluffy.
+Zuerst muss ich es nehmen.
+I have to pick it up first.
+Das kann man nicht öffnen.
+This cannot be opened.
+Das kann man nicht schließen.
+This cannot be closed.
+Ich möchte nicht, dass es die Treppe runter fällt.
+I don't want. It will fall down the stairs.
+Das kann ich nicht damit benutzen.
+I cannot use this with that.
+Treppe
+stairs
+Luke
+hatch
+Leiter
+ladder
+Handtuch>l
+towel>l
+Ich will erst noch meine Sachen packen.
+First I have to pack my things in the suitcase.
+Spieglein, Spieglein, an der Wand. Ich bin einfach die schönste im ganzen Land.
+Mirror, mirror on the wall, I am the fairest one of all!
+Der ist ein wenig zu groß für meinen Koffer.
+This is a little too big for my suitcase.
+Perfekt.
+Perfect.
+Den kann man nicht öffnen.
+It cannot be opened.
+Es bewegt sich nichts.
+Nothing is moving.
+Oh was ist denn da alles drin?
+Oh what's in there?
+Ich mag meine Möbel.
+I like my furniture.
+Der bleibt hier.
+I'll leave it there.
+Jetzt nicht.
+Not now.
+Der lässt sich nicht öffnen. Die Schranktüren sind nur Deko.
+I cannot open it. The doors are only decoration.
+Der ist schon zu.
+It's already closed.
+Die bleibt hier.
+I'll leave it there.
+Wo ist meine Unterwäsche hin???
+Where the hell is my underwear???
+Die hat Bernard bestimmt wieder geklaut.
+I'm sure Bernard has robbed them.
+Na warte!
+Just you wait!
+Man kann nur eine Schublade öffnen.
+I can only open one drawer.
+Die anderen sind nur Dekoration.
+The other are only decoration.
+Sie bewegt sich nicht.
+It doesn't move.
+Leer.
+Empty.
+Meine Klamotten habe ich gestern schon eingepackt.
+I packed my clothes already yesterday.
+Er bewegt sich nicht.
+It doesn't move.
+Mein wunderschönes Himmelbett.
+My beautiful canopy bed.
+Das bleibt hier.
+I'll leave it there.
+Ich will jetzt nicht schlafen gehen.
+I don't like to sleep now.
+Das ist perfekt gemacht. Ich will das nicht unordentlich machen.
+It's perfectly made. I don't like to mess it up.
+Das ist schon perfekt gemacht.
+It's already made perfectly.
+Bye bye triste Stadt.
+Bye bye sad town.
+Nein. Ich nehme lieber die Haustür.
+No. I prefer using the door.
+Ich mag meinen Koffer.
+I like my suitcase.
+Pink ist meine zweite Lieblingsfarbe.
+Pink is my second favorite color.
+Der ist noch nicht fertig gepackt.
+I haven't finished packing yet.
+Ich muss den erst öffnen.
+I have to open it first.
+Der ist abgeschlossen. Und der Schlüssel fehlt.
+It's closed. And the key is missing.
+Wo hab ich den nur gelassen?
+Where did I leave it?
+Er liegt da schon perfekt.
+It already lies there perfectly.
+Ich muss erst den Koffer öffnen um etwas hinein zu tun.
+First I have to open the suitcase to put something inside.
+Dafür muss ich ihn erst schließen.
+I have to close it first.
+Was soll ich hinein tun?
+What should I put inside?
+Der ist offen.
+It's open.
+So, ich glaube ich hab alles..
+So. I think I have everthing.
+Geschafft. Dann kanns ja losgehen.
+Got it. Now I can start.
+Urlaub - ich koooooooommmmeeeeeeee!!!
+Holiday - I'm coooooooooommmiiiiiiiiiiing!!!
+Da ist noch nicht alles drin, was ich brauche.
+There is still something missing that I need.
+Check.
+Check.
+Oh ja! Der muss unbedingt mit!
+Oh yes! Absolutly!
+Diese Kondome sind langweilig!
+These condoms are boring!
+Im Hotel gibt es Handtücher für umsonst!
+In the hotel I can get towel for free!
+Die nehme ich nicht mit.
+I don't take this with me.
+Die hat Bernard schon in seinem stinkenden Mund gehabt.
+Bernard had it already in his smelly mouth.
+Die ist kaputt.
+It's broken.
+So nützt sie mir nichts.
+I have no profit of it.
+Bernards Kissen ist zwar schön kuschelig...
+Bernard's pillow is indeed very cozy...
+Aber ich mag es trotzdem nicht.
+But I don't like it anyway.
+Wenn ich den Schlüssel in den Koffer packe, bekomme ich den doch später gar nicht mehr auf!
+If I will put the key in the suitcase I wouldn't be able to open it later!
+Der ist nicht sexy genug um ihn mit in den Urlaub zu nehmen.
+This is not sexy enough to take it with me on holiday.
+Das Makeup brauche ich unbedingt. Da muss aber noch ein Lippenstift bei.
+I absolutely need that makeup. But a lipstick is missing.
+Das ist sexy. Aber nicht mehr heiß genug.
+This is sexy. But not hot enough.
+Dann weiß ich doch gar nicht mehr, was ich sonst noch brauche...
+Then I wouldn't know any more what I have to pack next.
+Ich sollte ihn zuerst zu meinem anderen Makeup tun.
+I should put it to my other makeup first.
+Das möchte ich nicht einpacken.
+I don't like to pack this.
+Die will ich nicht rausreißen!
+I don't want to rip that out!
+Was soll ich tun?
+Why should I do this?
+Nee.
+Noo.
+Wenn ich sie schließen soll, dann muss ich sie schließen.
+When I should close it, I have to close it.
+Der ist schon offen
+It's already open.
+Das ist mein Packzettel.
+This is my packing note.
+Ist es nicht süß?
+Isn't it sweet?
+Das hat mir Nick geschenkt.
+It was a gift from Nick.
+Oder war es Kevin?
+Or was it from Kevin?
+Naja, ist auch egal...
+Well. Whatever...
+Ich würde es so gerne mitnehmen.
+I would like to pack it.
+Nur leider passt es nicht in meinen Koffer.
+But it doesn't fit in my suitcase.
+Sexy.
+Sexy.
+Das hängt da ganz gut.
+It's hanging at a good place, yet.
+Mein Schminkkästchen. Da ist mein ganzes Makeup drin.
+My makeup case. With all my makeup inside.
+Mal sehen ob auch alles da ist...
+Let's see if I've got everything...
+Mist! Mein Lippenstift ist schon wieder alle!
+Shit! My lipstick is empty again!
+Ich sollte es erst einmal nehmen.
+I should pick up that first.
+Gleich gehts in den Urlaub.
+Today I will go on holiday.
+Ich freu mich schon tierisch drauf.
+I cannot wait for it.
+Sonne,...
+Sun,...
+Strand,...
+Beach,...
+heiße Typen,...
+hot guys,...
+und gaaanz viel Party!
+and a looooot of party!
+Aber das Allerbeste ist:...
+But the best is:...
+Kein nerviger Bernard weit und breit!
+Far and wide no annoying Bernard!
+Ich muss nur noch ein paar Kleinigkeiten einpacken.
+I only have to pack some things.
+Auf meinem Zettel steht alles was ich noch brauche.
+On my packing note is written what i need.
+Spiegel
+mirror
+Kleiner Schrank
+small wardrobe
+Kommode>o
+commode>o
+Kleiderschrank>o
+wardrobe>o
+großes Herzkissen
+big heard pillow
+Poster
+poster
+pinker Koffer
+pink suitcase
+Kleiderschrank>c
+wardrobe>c
+Zettel
+packing note
+Schminkkästchen>p
+makeup case
+Ein Wasserhahn.
+A faucet.
+Der ist festgemacht.
+It's tightened to the sink.
+Das Wasser läuft bereits.
+The water is already running.
+Der Wasserhahn ist doch schon zu.
+The faucet is already closed.
+Das kann ich damit nicht benutzen.
+I cannot use this in that way.
+Ein Waschbecken.
+A sink.
+Warum?
+Why?
+Es ist noch zu früh um mein Makeup abzuwaschen.
+It's too early to wash off my makeup.
+Dazu gibt es keinen Grund.
+There is no reason for this.
+Das macht keinen Sinn.
+That doesn't make any sense.
+Fällt dir nichts besseres ein?
+You have no better idea?
+Ein Spüllappen gehört in die Spüle!
+A dishcloth belongs to the DISH sink!
+Damit würde ich das Waschbecken verstopfen.
+The sink would become clogged.
+Hmmm, da fehlt noch ein wenig Makeup. Aber sonst wie immer perfekt!
+Hmmm, a bit makeup is missing. However, perfect as always!
+Der ist etwas zu groß für meinen Koffer.
+This is too big for the suitcase.
+Der ist abgeschlossen, leider.
+Unfortunately it's closed.
+Mom hat immer Angst, dass ich ihr Makeup klaue.
+Mom alyways frightens that I would steal her makeup.
+Der ist fest an die Wand geschraubt.
+It's tight screwed at the wall.
+Hmm, ja...
+Hmm, yeah...
+...ich könnte probieren, das damit aufzuhebeln.
+... I could check if I can open it with that.
+Moment...
+Wait...
+Hehe. Geht doch!
+Hehe. There we go!
+Nur leider ist dadurch meine Zahnbürste zerbrochen.
+But unfortunately my toothbrush has brokened.
+Lieber nicht.
+Better not.
+Sie könnte kaputt gehen, wenn ich den Spiegelschrank damit aufhebel.
+It could broken when I try to open the mirror cabinet with this.
+Der Lippenstift ist zu breit. Der passt nicht in die Ritze.
+The lipstick is too wide. It doesn't fit in the gap.
+Der Schlüssel passt nicht.
+The key doesn't fit.
+Ich möchte den Spiegelschrank nicht kaputt schlagen.
+I don't like to crush the mirror cabinet.
+Damit bekomme ich den Spiegelschrank nicht auf.
+I cannot open the mirror cabinet with that.
+Eine handelsübliche Badewanne.
+A usal bathtub.
+Bis zum Rand mit Wasser gefüllt.
+Filled with water.
+Bis zum Rand mit lila Wasser gefüllt.
+Filled with purple water.
+Das schaffe ich nicht allein.
+I don't manage this for myself.
+Ich habe keine Zeit zum baden.
+I have no time to take a bath.
+Und alleine ist das sowieso langweilig.
+And it's just boring when there's nobody with me.
+Das geht nicht zu.
+It's not closing.
+Schick.
+Nice.
+Ich hab jetzt lila Badewasser.
+I have purple water in the bathtub, now.
+Ich möchte das nicht in die Wanne legen.
+I don't like to put this in the bathtub.
+Ich habe das Kissen lila gefärbt.
+I turned the pillow purple.
+Ich will das Kissen nicht nur nass machen.
+I don't just want to wet the pillow.
+Bernard soll in der Badewanne schlafen? Auch keine schlechte Idee...
+Bernard has to sleep in the bathtub? Not a bad idea...
+Ein Spüllappen gehört in die SPÜLE.
+A dishcloth belongs to the DISH sink!
+Ich soll meine Unterwäsche in der BADEWANNE waschen???
+I should wash my underwear in the BATHTUB???
+Ich möchte das nicht lila färben.
+I don't like to turn this purple.
+Ich möchte das nicht waschen.
+I don't like to wash this.
+Eine Badezimmermatte.
+A bathroom mat.
+Ich brauche keine Badezimmermatte.
+I don't need a bathroom mat.
+Die lässt sich nicht öffnen.
+It doesn't open.
+Die lässt sich nicht schließen.
+It doesn't close.
+Die bleibt da liegen.
+I'll leave it there.
+Eine Kloschüssel.
+A toilet bowl.
+Ja klar.
+Of course.
+Dazu wäre ich ganz gerne alleine!
+For this I would like to be alone!
+Der Deckel ist schon offen.
+The lid is already opened.
+Der Deckel ist schon zu.
+The lid is already closed.
+Das bewegt sich nicht.
+It's not moving.
+Das will ich nicht das Klo herunterspülen.
+I don't want to flush this through the toilet.
+Die Klospülung.
+The toilet flush.
+Die ist am Spülkasten festgemacht.
+It's tightened to the flush.
+Ich sehe da kein Sinn drin.
+This doesn't make any sense.
+Draussen ist auch nichts los.
+There's nothing special going on outside.
+Igitt! Bernard hat mal wieder nicht die Bürste benutzt!
+Ugh! Bernard forgot to use the lavatory brush again!
+Den kann man nicht nehmen.
+I cannot pick it up.
+Ich muss nicht.
+I don't need to.
+Der Deckel ist bereits geöffnet.
+The lid is already open.
+Der ist am Klo festgemacht.
+It's tightened to the toilet.
+Ich muss erst die Luke schließen.
+I have to close the hatch first.
+Die Maschine ist leer.
+The machine is empty.
+Fertig.
+Ready.
+Unsere neue Waschmaschine.
+Our new washing machine.
+Nun muss Mom nicht mehr alles mit der Hand waschen.
+Now Mom don't need to wash everything with her hands any more.
+Die ist schon geschlossen.
+It's already closed.
+Meine lila Zahnbürste.
+My purple toothbrush.
+Da ist ja meine Zahnbürste.
+There it is - my toothbrush.
+Hey, Moment...
+Hey, wait...
+Die hat ja gar keine Borsten mehr!
+It hasn't any bristles anymore.
+Anscheinend hat dieser kleine Eierkopf die abgeschnitten!
+It seems that this little egghead has cutted them off.
+Grrrrrr
+Grrrrrr
+Meine Zähne sind noch sauber genug.
+My teeth are still clean enough.
+Bernards blaue Zahnbürste.
+Bernard's blue toothbrush.
+Das ist zwar Bernards Zahnbürste, ich nehme die aber trotzdem mal mit.
+I'll take it with me, although it's Bernard's toothbrush.
+Bestimmt nicht. Die hatte Bernard schon in seinem stinkenden Mund.
+Definitely not. Bernard had it already in his stinky mouth.
+Der Spiegelschrank ist jetzt offen. Mal sehen was Mom hier so alles hat...
+The mirror cabinet has opened. Let's see what stuff Mom has placed here...
+Der ist schon offen.
+It's already open.
+Jetzt hab ich es endlich geschafft, ihn zu öffnen.
+Finally I managed to open it.
+Jetzt bleibt er auch offen!
+Now it will stay opened!
+Damit kann man Wasser in die Wanne lassen.
+It's used to fill the tub with water.
+Die Wanne ist jetzt voll
+Now the bath tub is full of water.
+Wow! Das ging ja schnell!
+Wow! That was fast!
+Die Wanne ist bereits bis zum Rand mit Wasser gefüllt.
+The bath tub already is full of water.
+Die Waschmaschine ist offen.
+The washing machine is open.
+Die Waschmaschine ist leer.
+The washing machine is empty.
+Nur Handwäsche. Sonst geht es kaputt.
+Only hand wash. Otherwise it will get broken.
+Das möchte ich nicht waschen.
+I don't want to wash this.
+Damit wird das Bad belüftet ohne dass man das Fenster öffnen muss.
+It's the vent of the bathroom. You don't have to open the window any more.
+Praktisch.
+Very practical.
+Ich möchte den Lüftungsschacht nicht mit Krams verstopfen.
+I don't want to plug stuff in the vent.
+Damit bekomme ich das Gitter nicht auf.
+I cannot open the grate with this.
+Mom würde bemerken dass ihr Lippenstift fehlt und ich bekomme wieder Dateverbot.
+Mom would notice that her lipstick is missing. And I get prohibited to date again.
+Das ist Moms Lippenstift.
+That's Mom's lipstick.
+Den kann ich nicht öffnen, so lange er im Schrank steht.
+I cannot open it while it is standing in the cabinet.
+Nochmal tausche ich den nicht aus.
+I don't replace it again.
+Dann hab ich ja wieder den leeren.
+I would have the empty one again.
+Mom, ich glaube dein Lippenstift ist alle...
+Mom, i believe you lipstick is empty...
+Ich kann das nicht mit dem Lippenstift benutzen.
+I cannot use this with the lipstick.
+Das ist Moms Nagellackentferner.
+That's Mom's nail lacquer remover.
+Ich sollte ihn erst einmal mitnehmen.
+I should pick it up first.
+Wasserhahn>u
+faucet>u
+Waschbecken
+sink>u
+Spiegelschrank
+mirror cabinet
+Badewanne
+bath tub
+Matte
+mat
+Toilette>o
+toilet>o
+Kette>y
+chain>y
+Waschmaschine>o
+washing machine>o
+Wasserhahn
+faucet
+Lüftungsgitter>o
+vent grate>o
+Klodeckel>c
+toilet lid
+blaue Zahnbürste
+blue toothbrush
+lila Zahnbuerste
+purple toothbrush
+Luke>c
+hatch>c
+Lüftungsschacht>c
+vent>c
+Lippenstift
+lipstick
+Nagellackentferner>p
+nail lacquer remover>p
+Hier schlafen Mom und Dad.
+Mom and Dad sleep in here.
+Das ist doch nur ein Bett.
+That's only a bed.
+Ich will jetzt nicht schlafen.
+I don't want to sleep now.
+Das lässt sich nicht verschieben.
+That cannot be moved around.
+Das will ich nicht auf das Bett legen.
+I don't want to put this on the bed.
+Meine Eltern haben diesen schweren Vorhang aufgehängt.
+My parents have hung this heavy curtain here.
+Damit der fette Hoagie nicht mehr spannen kann.
+So that the fat Hoagie cannot spy any more.
+Ich brauche keinen Vorhang.
+I don't need a curtain.
+Der ist zu schwer zum öffnen.
+It's too heavy to open.
+Ein Nachtschränkchen.
+A bedside cabinet.
+So was nehme ich nicht mit.
+I don't take this with me.
+Ist doch schon zu.
+It's already closed.
+Soll ich mich da etwa drauf stellen?
+Should I stand on it?
+Der lässt sich nicht verschieben.
+It cannot be moved.
+Das will ich nicht auf das Schränkchen legen.
+I don't want to put this on the cabinet.
+Eine Lampe.
+A lamp.
+Sowas brauche ich nicht.
+I don't need this.
+Ich lasse die lieber an, es ist sonst so dunkel hier drin.
+I'll let it on. Otherwise it would be too dark in here.
+Sie sieht geschlossen aus.
+It looks closed.
+Ich lasse sie besser da stehen.
+I better let it here.
+Die Tür ist schon offen.
+The door is already open.
+Das will ich nicht in das Schränkchen legen.
+I don't want to put this in the cabinet.
+Ein Bild von einem alten Penner.
+A painting of an old retard.
+Übelst hässlich.
+Very disgusting.
+Keine Ahnung warum sich meine Eltern so einen Schund übers Bett hängen.
+No idea why my parents hang such a waste on top of their bed.
+Das nehme ich nicht mit.
+I don't want to take this with me.
+Meine Eltern sind zu arm um dahinter einen Safe verstecken zu müssen.
+My parents are too poor for having to hide a safe behind a painting.
+Was soll ich damit anfangen?
+What should I do with that?
+Meine Eltern bringen mich um wenn ich das Bild verschandle.
+My parents would kill me if I waste their painting.
+Das Lieblingsspielzeug von Mom.
+Mom's favorite toy.
+Sowas habe ich nicht nötig!
+I'm not in need of this!
+Ich habe die Batterien entnommen.
+I took the batteries out.
+Das Batteriefach ist leer.
+The batterie compartment is empty.
+Da sind keine Batterien mehr drin.
+It hasn't any batteries anymore.
+Ich kann die Batterien bestimmt noch für was besseres gebrauchen.
+I think I better use the batteries otherwise.
+Das ist einfach nur pervers.
+That's just perverted.
+Ich will Moms Lieblingsspielzeug nicht kaputt machen.
+I don't want to destroy Mom's favorite toy.
+Eine Packung von Dads Kondomen.
+A package of Dad's condoms.
+Ganz gewöhnliche, langweilige Kondome.
+Just usual, boring condoms.
+So lange ich alleine bin, geht das nicht.
+That won't work while I am alone.
+Mit Pfirsichgeschmack.
+With peach taste.
+Nein, danke.
+No thanks.
+Ich hasse Pfirsiche.
+I hate peaches.
+Obwohl sie lila sind.
+Althoug they are purple.
+Damit lässt sich das Licht anschalten.
+It's used to switch on the light.
+Damit lässt sich das Licht ausschalten.
+It's used to switch off the light.
+Hier drin ist es zu dunkel.
+It's too dark in here.
+Ich kann nichts erkennen.
+I cannot see anything.
+schwerer Vorhang
+heavy curtain
+Nachtschränkchen>o
+bedside cabinet>o
+Lampe
+lamp
+Gemälde
+painting
+Lichtschalter>u
+light switch>u
+???>l
+
+Nachtschränkchen>c
+bedside cabinet>c
+Vibrator>l
+vibrator>l
+Kondome
+condoms
+Kondome mit Pfirsichgeschmack
+condoms with peach taste
+Immernoch das Haus von diesem fetten Hoagie.
+Again the house of that fat Hoaegie.
+Uargh! Ich hasse dieses Tenktakel-Vieh.
+Uargh! I hate this ugly tentacle.
+Ich will es nicht übermalen.
+I don't want to paint over this.
+Da ist sicher kein Tresor hinter.
+I'm sure there's no safe behind.
+Da ist nichts zum Schließen.
+There's nothing to close.
+Ich lasse es da hängen.
+I'll leave it there.
+Damit würde ich das Bild beschädigen.
+I would crush the painting with that.
+Ein grüner Gartenschlauch.
+A green garden hose.
+Igitt! Der Schlauch ist total versifft.
+Ugh! The hose is very filthy.
+Das kann man nicht schliessen.
+It cannot be closed.
+Ich lasse ihn da liegen.
+I'll leave it there.
+Damit kann ich hier nichts machen.
+I cannot do anything with it.
+Ein Chemie-Baukasten von Bernard.
+Bernard's chemistry kit.
+Damit hat er schon als Kind geübt, wie man den Keller kontaminiert.
+As far back as a child he tried to contaminate the cellar with this.
+Nein danke, sowas brauch ich nicht.
+No thanks. I don't need this.
+Ich will den nicht öffnen.
+I don't want to open this.
+Ein paar alte Zeitschriften.
+A bunch of old magazines.
+Die sind ja schon ewig alt!
+They are very ancient!
+Keine Ahnung wer so einen Schund aufhebt.
+I don't believe someone keeps such a waste.
+Die will ich jetzt nicht öffnen.
+I don't want to open them.
+Die will ich nicht schliessen.
+I don't want to close them.
+Ich lasse sie da liegen.
+I'll leave them there.
+Ein Benzinkanister.
+A gas canister.
+Da ist kein Benzin drin.
+No gas inside.
+Damit hat Bernard bestimmt wieder irgendeinen Unsinn gemacht.
+Bernard has properly made some nonsense with it.
+Den will ich jetzt nicht öffnen.
+I don't want to open it.
+Der ist zu.
+It's closed.
+Ich lasse ihn da stehen.
+I'll leave it here.
+Eklig.
+Disgusting.
+Nee. Das Zeug klebt wie Sau!
+Noo. The stuff is glueing as hell!
+Da geht es runter.
+The way downstairs.
+Dann komme ich nicht mehr runter.
+I wouldn't get downstairs anymore.
+Ein Karton.
+A cardboard box.
+Der bleibt hier!
+I'll leave it here!
+Hey, da ist eine sexy Corsage drin.
+Hey, there it is - my sexy corsage.
+Igitt! Die ist durch den kalten Dachboden totaaal klamm geworden.
+Ugh! The attic has made it veeeeery damp.
+Jetzt ist sie gar nicht mehr heiß genug.
+Now it's not hot enough any more.
+Der ist mit superstarkem Panzerband zugeklebt.
+It's sealed up with super strong duct tape.
+Der Karton ist doch zu.
+The box is closed.
+Ich kann den Karton nicht bewegen.
+I cannot move the box.
+Ein großer Lautsprecher.
+A big loudspeaker.
+Der gibt bestimmt voll den fetten Beat ab.
+It sureley will bring the best beat.
+Der ist mir viel zu schwer.
+It's too heavy to carry it around.
+Der Lautsprecher ist doch zu.
+The speaker is already closed.
+So bewegt sich nichts.
+In this way it won't move.
+Hmmmm, mal sehen...
+Hmmmm, let's see...
+Ups.
+Oops.
+Wo soll ich ihn anschließen?
+Where should it be plugged in?
+Ich will den Lautsprecher nicht kaputt machen.
+I don't want to break the loudspeaker.
+'Disco Sucks.'
+
+Discos sind ja wohl klasse!
+Discos are awesome!
+Ich hoffe im Urlaub gibts genug geile Locations zum Party machen.
+I hope there are a lot of party locations on holidays.
+Das bleibt da hängen!
+I'll leave it there.
+Ich weiß nicht wie.
+I don't know how.
+Ich kann es nicht bewegen.
+I cannot move it.
+Der Karton ist mit superstarkem Panzerband zugeklebt.
+The box is sealed up with super strong duct tape.
+Uff! Das Zeug klebt zu fest.
+Phew! The stuff cleaves a lot.
+Mit bloßen Händen kriege ich das niemals ab.
+I would never get it ripped off with just my hands.
+Mal sehen...
+Let's see...
+Die Säure ist so stark, die zerfrisst sogar das superstarke Panzerband.
+The acid is this strong, it even consumes the super strong duct tape.
+Damit kann ich das Panzerband nicht entfernen.
+I cannot remove the duct tape with that.
+Das Kabel vom Lautsprecher.
+The cable of the loudspeaker.
+Das kann ich nicht mitnehmen. Das ist fest mit dem Lautsprecher verbunden.
+I cannot take this with me. It's connected to the loudspeaker.
+Ich kann das nicht mit dem Kabel benutzen.
+I cannot use this with the cable.
+Ich möchte das Kabel nicht heraus ziehen.
+I don't want to pull the cable out.
+Ups. Der ist mir umgefallen.
+Oops. It has fallen over itself.
+Der geht nicht auf.
+It cannot be opened.
+Der Lautsprecher ist schon zu.
+The loudspeaker is already closed.
+Der Lautsprecher ist zu schwer zum bewegen.
+The loudspeaker is too heavy to move around.
+Damit kann man den Lautsprecher an eine Stereoanlage anschließen.
+It's used to plug the loudspeaker to a hi-fi system.
+Wenn wir eine hätten.
+If we had one.
+Den muss ich hier lassen.
+I have to leave it here.
+Mit was? Wir haben keine Stereoanlage.
+With what? We don't have a hi-fi system.
+Schließe Stecker?
+Close plug?
+Ich könnte da höchstens etwas ANschließen!
+It's used to plug into something.
+Ich möchte den nicht abreißen.
+I don't want to pull this off.
+Das ist kein Drücker.
+It cannot be pushed.
+Der Stecker passt nicht in den Discman.
+The plug doesn't fit in the discman.
+Aber vielleicht wenn ich fest drücke...
+But I can try to push harder...
+Passt doch...
+See, it fits...
+Der Stecker passt da nicht dran.
+The plug doesn't fit.
+Ein alter Kasten mit Wasserfarbe.
+An old paintbox.
+Ich nehme nur die lila Farbe mit.
+I only take the purple color.
+Nein danke. Da ist kein Lila mehr drin.
+No thanks. The purple color is missing.
+Mein alter Discman. Der verstaubt hier schon seit ich meinen iPod habe.
+My old discman. It's resting here since I've got my iPod.
+So lange der Discman im Regal liegt, komme ich nicht richtig ran.
+I don't reach it as long it's laying in the shelf.
+Ohne CD macht der Discman gar nichts.
+The discman isn't working without a CD.
+Gute Idee. Ich glaube aber das ist so noch nicht effektiv genug.
+Good idea. But I don't think it's effective enough.
+Bei dem Krach kann Bernard bestimmt nicht mehr lernen.
+With this noise Bernard is definitely unable to study.
+Für heute habe ich genug Krach gemacht.
+I made enough noise for today.
+Mein alter Discman. Den habe ich an den dicken Lautsprecher angeschlossen.
+My old discman. I plugged it on the big loudspeaker.
+Nein, da kann er bleiben.
+No, it can stay there.
+Ich will das nicht kaputt machen.
+I don't want to crush this.
+Ein altes Spielzeugauto.
+An old toy car.
+Das brauche ich nicht. Nur kleine Kinder spielen mit sowas.
+I don't need this. Only little children play with such things.
+Die Räder sind so festgerostet, da bewegt sich nix mehr.
+The wheels are that rusty, they won't move.
+Ich kann mit dem Spielzeugauto nichts anfangen.
+The toy car is pretty useless.
+Bild
+painting
+Schlauch
+garden hose
+Chemie-Baukasten
+chemistry kit
+Zeitschriften
+magazines
+Benzinkanister
+gas canister
+Umgekippter Superkleber
+upset super clue
+Karton
+cardboard box
+Lautsprecher
+loudspeaker
+Disco sucks
+
+Kabel
+cable
+Stecker
+plug
+Superpanzerband
+super duct tape
+Wasserfarbkasten
+paintbox
+Spielzeugauto
+toy car
+Discman
+discman
+Tschuldigung.
+Sorry.
+Ist mir doch jetzt egal...
+I don't care...
+Ich habe Urlaub!
+I'm on vacations now!
+Die Tür ist abgeschlossen.
+The door's closed.
+Ich muss das ins Schlüsselloch tun.
+I have to put it in the key hole.
+Ich kann damit die Tür nicht aufbrechen.
+I cannot brake up the door with that.
+Da geht es nach oben.
+That's the way upstairs.
+Das kann ich nicht nehmen.
+I cannot pick this up.
+Es geht nicht auf.
+It cannot be opened.
+Es geht nicht zu.
+It cannot be closed.
+da bewegt sich nichts.
+Nothing is moving.
+Immer wenn ich dieses Bild anschaue, hab ich das Gefühl, zu viel getrunken zu haben...
+Every time I look at this painting I feel drunk...
+... ich sehe den Kopf dreifach.
+... I see a tripled head.
+Ich will keine Freaks aus Bernards Computerspielen mit mir rumschleppen!
+I don't want to carry freaks from Bernard's computer games with me!
+Die Telefonkommode.
+The phone commode.
+Die linke Kommodentür ist offen.
+The left door is open.
+Die rechte Kommodentür ist offen.
+The right door is open.
+Ein antikes Telefon.
+An ancient phone.
+Mit WÄHLSCHEIBE!
+With ROTARY DIAL!
+Ich habe keine Ahnung wie man so etwas uuuuuraltes bedient.
+I have no idea how to handle things that oooooooold.
+Innen steckt ein Schlüssel.
+The key is in the lock inside.
+Wie kommt denn der da rein?
+How it is getting in there?
+Ich habe es nicht nötig, durch Schlüssellöcher zu spannen.
+I can do without spying through key holes.
+Dann wär der Schlüssel weg.
+In this case the key would be gone.
+Da steckt kein Schlüssel mehr.
+There's no key in the lock any more.
+Gute Idee. Leider ist der Kuli zu breit für das Schlüsselloch.
+Good idea. But the pen is too wide to fit in the key hole.
+Das passt nicht ins Schlüsselloch
+That doesn't fit in the key hole.
+Ich sollte meinen Zettel wieder mitnehmen. Sonst weiß ich gar nicht, was ich noch einpacken muss.
+I should take my note with me.
+Ich sollte ihn erst aufnehmen.
+First I should pick it up.
+Rote Seiten.
+Red Pages.
+Dieses Buch enthält alle Nummern von den Leuten, die keinen Eintrag im Telefonbuch wünschten.
+This book contains all numbers of people who don't want to be in the real phone books.
+Nein danke. Das ist mir zu schwer zum rumschleppen.
+No thanks. It's too heavy to carry around.
+Und es ist auch NICHT lila!
+And it is also NOT purple!
+Huch. Da hat jemand eine CD in das Buch gelegt.
+Yikes. There is a CD inside the book.
+Ich möchte nicht meine Zeit mit dem Lesen von langweiligen Telefonnummern verschwenden!
+I don't want to waste my time reading boring phone numbers!
+Obergeschoss
+upstairs
+linke Kommodentür>o
+left commode door>o
+Dreiköpfiger Affe
+three-headed monkey
+rechte Kommodentür>o
+right commode door>o
+Schlüsselloch
+key hole
+linke Kommodentür>c
+left commode door>c
+rechte Kommodentür>c
+right commode door>c
+Telefon>l
+phone>l
+Zettel>p
+note>p
+Kugelschreiber>p
+ball pen>p
+Telefonbuch>l
+phone book>l
+Ein Regal.
+A shelf.
+Das ist viel zu schwer.
+That's too heavy for me.
+Ich möchte da nichts rein tun.
+I don't want to put anything in there.
+Da ist nichts zum Schließen dran.
+There's nothing to close.
+Das schaffe ich so nicht.
+That doesn't work.
+Das will ich da nicht rein tun.
+I don't want to put this in there.
+Die einzige Lüftung für diese stickige Abstellkammer.
+The only source of fresh air to this stinky storeroom.
+Moment! Da ist doch irgendwas drin...
+Wait! There's something in there...
+Das kann ich nicht mehr schließen.
+I cannot close it anymore.
+Ich komme nicht dran.
+I can't reach it.
+Da liegt etwas Schwarzes im Lüftungsschacht.
+There's something black in the vent.
+Mein schwarzer Spitzen-BH!
+My black lace bra!
+STRIKE!
+STRIKE!
+Für heute hab ich genug Sport gemacht.
+I did enough sports for today.
+Regal
+shelf
+Lüftungsgitter
+vent grate
+kleinere Preise
+small prices
+Nachtschränkchen>v
+bedside cabinet
+Pokal
+
+Desinfektionsmittel
+disinfectant
+Lukenöffner>p
+hatch opener>p
+Lüftungsschacht
+vent
+schwarzes Etwas>p
+black thing>p
+Bowlingkugel
+bowling ball
+Ein Hängeschrank.
+A cupboard.
+Den kann ich nicht mitnehmen.
+I cannot take it with me.
+Der ist doch zu.
+It's already closed.
+Es passiert nichts.
+Nothing happens.
+Das kann ich hier nicht anwenden.
+I cannot do this.
+Eine Mikrowelle.
+A microwave.
+Die ist fest auf die Arbeitsplatte geschraubt.
+It's screwed tight on the worktop.
+Die Mikrowelle ist bereits geschlossen.
+The microwave is already closed.
+Damit geht sie nicht auf.
+I cannot open it with that.
+Ein Kühlschrank.
+A fridge.
+Den packe ich nicht ein.
+I don't take it with me.
+Der Kühlschrank ist bereits geschlossen.
+The fridge is already closed.
+Wenn der bewegt werden soll, lasse ich lieber Bernard dafür schuften.
+When it has to be moved I would told Bernard to do it.
+Der bewegt sich nicht.
+Nothing is moving.
+Ein Herd.
+A stove.
+Der ist hier festgemacht.
+It's tightend here.
+Der ist hier nur zur Dekoration.
+It's only decoration.
+Der Ofen ist bereits geschlossen.
+The stove is already closed.
+Da passiert nichts.
+Nothing happens.
+Das macht hier kein Sinn.
+That makes no sense.
+Unser Geschirrspüler.
+Our dishwasher.
+Der Geschirrspüler ist bereits geschlossen.
+The dishwasher is already closed.
+Ich kann unseren Garten sehen.
+I can see our garden.
+Es ist doch zu.
+It's already closed.
+Es lässt sich nicht bewegen.
+It cannot be moved.
+Damit geht das Fenster nicht auf.
+The window cannot be opened with this.
+Ich sollte die Schublade erst mal öffnen.
+I should open the drawer first.
+Eine Spüle.
+A sink.
+Da ist ein Lappen drin. Den nehm ich mal mit.
+I can see a dishcloth inside. I'll take it with me.
+Ich muss mir jetzt nicht die Hände waschen.
+I don't need to clean my hands.
+Das macht mal so überhaupt gar keinen Sinn.
+That doesn't make any sense.
+Damit würde ich die Spüle verstopfen.
+I would clog the sink with this.
+Der ist mir zu schwer.
+Too heavy for myself.
+Das habe ich schon getan.
+I already did this.
+Den kann ich nicht bewegen.
+I cannot move this.
+Das muss nicht gekühlt werden.
+That doesn't have to be cooled down.
+Ich will sie nicht raus reissen.
+I don't want to pull it out.
+Das will ich nicht da rein tun.
+I don't want to put it there.
+Ein Mikrowelle.
+A microwave.
+Ist doch schon offen.
+It's already open.
+Das sollte ich da nicht rein tun.
+I shouldn't put this in there.
+Der ist doch schon offen.
+It's already open.
+Der mittlere Schrank ist nur Dekoration. Den kann ich nicht öffnen.
+The middle cupboard is only for decoration. I cannot open it.
+Eine Einkaufsliste.
+A buying list.
+Wozu soll ich etwas einkaufen?
+Why should I buy anything?
+Der Kühlschrank füllt sich immer von alleine wenn Mom und Dad da sind.
+The fridge is always filling itself when Mom and Dad are at home.
+Das geht nicht auf.
+That cannot be openend.
+Wie um alles in der Welt soll ich einen Zettel schließen?
+How for all in the world should I open a piece of paper?
+Das bringt nix.
+It's pointless.
+Es ist schon offen.
+It's already open.
+Lieber nicht. Hier muss dringend gelüftet werden.
+Better not. This room needs some fresh air.
+Das will ich nicht aus dem Fenster schmeißen.
+I don't want to throw this out of the window.
+Da ragt ein Ast zum Fenster herein.
+There is a branch projecting into the window.
+Ich brauche keinen dummen Ast.
+I don't need a fucking branch.
+Wie soll ich das benutzen?
+How should I use this?
+Ich drück da gar nichts!
+I don't push anything!
+Nein lieber nicht.
+No. Better not.
+Weiter kann ich daran nicht ziehen. Er hängt fest.
+I cannot pull further. It stucks.
+An dem Ast hängt irgend eine rote Frucht.
+A red fruit is hanging on the branch.
+Ich ess das nicht - ich bin auf Diät!
+I don't eat this - I'm on a diet!
+Igitt!
+Ugh!
+Da sind noch verfaulte Erdbeeren drin.
+I can see rotten strawberrys inside.
+Hast du sie noch alle?!
+Are you crazy?!
+Ich fasse bestimmt nicht in diesen stinkenden Biomüll!
+I would never put my hands in this stinky biowaste!
+Das will ich nicht in den Biomüll werfen!
+I don't want to put this into the biowaste!
+'Bio Diät-Jogurt'
+'Bio diet yogurt'
+'Nur 0,0000000001% Fett'
+'Only 0,0000000001% fat'
+Das gibts doch nicht!
+I can't believe this.
+Da hat schon wieder jemand meinen ganzen Diät-Jogurt aufgegessen!
+Somebody ate my whole diet yogurt, again!
+Was ist das denn?
+What's this?
+Was zur Hölle macht denn ein ...
+Why the hell is a...
+Hey, das ist ja mein Lieblingstanga!
+Hey, that's my favorite tanga!
+Moms Turbomixer.
+Mom's turbo mixer.
+Der häckselt alles klein.
+This chops everything.
+Yeah! Noch mehr Polster.
+Yeah! More padding.
+Irre! So fühlt sich also gehäckseltes Sitzpolster an.
+Wow! So that's how chopped padding feels like.
+Der ist mir zu sperrig zum herumschleppen.
+It is too bulky to carry it around.
+Ich stelle ihn mal hier ab.
+I put it down here.
+Der steht da schon ganz gut.
+This is already a good place.
+Er funktioniert.
+It's functioning.
+Da ist schon was Gemixtes drin.
+There's already some mixed stuff inside.
+Ich komme nicht an die Öffnung. Der Mixer steht zu weit oben.
+I cannot reach the opening.
+Jetzt habe ich rotes Fruchtmus im Mixer.
+Now I have red fruit mash in the mixer.
+Ich habe das Fruchtmus in das Glas getan.
+I have put the fruit mash in the glass.
+Die Kondome könnten an die Klingen geraten und Löcher bekommen.
+The condoms could touch the blades and get holes.
+Ich habe das Sitzpolster zerhäckselt.
+I chopped up the padding.
+Das möchte ich nicht klein häckseln.
+I don't want to mix this up.
+Meine Corsage.
+My corsage.
+Schrank>o
+cupboard>o
+Mikrowelle>o
+micro wave>o
+Kühlschrank>o
+fridge>o
+Hängeschrank>o
+cupboard>o
+Herd
+stove
+Geschirrspüler
+dishwasher
+Schublade>o
+drawer
+Spüle
+sink
+Einkaufliste>l
+buying list
+Schrank>c
+cupboard>c
+Kühlschrank>c
+fridge>c
+Mikrowelle>c
+micro wave>c
+Hängeschrank>c
+cupboard>c
+Ast
+branch
+rote Frucht
+red fruit
+Biomüll
+bio waste
+Erdbeerjogurt
+strawberry yogurt
+Lappen
+cloth
+Mixer
+mixer
+Corsage
+corsage
+Es ist auf.
+It's open.
+Unser Fernseher.
+Our television.
+Das geht nur mit der Fernbedienung.
+It can only be started via remote control.
+Lieber nicht. Ich kenne mich mit diesem Technikfirlefanz nicht aus.
+Better not. I have no idea to handle this technology stuff.
+Er ist schon geschlossen.
+It's already closed.
+Ich will ihn nicht verrücken.
+I don't want to move it.
+Die Batterien sind leer.
+The batteries are empty.
+Damit geht der Fernseher nicht an.
+I cannot start the television with that.
+Ein Bild von einem wunderschönen Strand.
+A painting of a wonderful beach.
+In ein paar Stunden bin ich auch am Strand.
+Only a few hours and I will be at a beach, too.
+Ich kann es kaum erwarten!
+I hardly can wait!
+Meine Damen und Herren...
+Ladies and Gentleman...
+Gleich sehen sie den Film mit dem Titel:
+You will see the movie with the title:
+'The Secret of Monkey Island'
+
+Das ist mir zu schwer.
+Too heavy for myself.
+Ich möchte mich jetzt nicht ausruhen.
+I don't want to rest now.
+Vergiss es.
+Forget it!
+Das will ich nicht da ablegen.
+I don't want to put this there.
+Das bin ich. In einem sexy Outfit.
+That's me. With a sexy outfit.
+Damit würde ich das Foto beschädigen.
+I would brake the photo.
+Ich hasse dunkles Porzellan.
+I hate dark porcelain.
+Ich habe gerade keine Blume zur Hand.
+I don't have a flower with me.
+Da ist nichts zum schliessen.
+Nothing to close.
+Ich lasse sie da stehen.
+I'll leave it there.
+Ich will sie nicht runter schmeißen.
+I don't want to throw it down.
+Damit würde ich die Vase beschädigen.
+I would break the porcelain.
+Ein kleiner Tisch.
+A small table.
+Da steht schon was drauf.
+There's already something onto it.
+Ich lasse den da stehen.
+I'll leave it there.
+Das kann ich da nicht benutzen.
+I cannot use it there.
+Ist mein Taxi schon da?
+Is my taxi there?
+Ach, noch nicht.
+Oh, not yet.
+Ich möchte da nicht raus klettern.
+I don't want to climb through the window.
+Eine Steckdose.
+A socket.
+Die kann ich nicht mitnehmen.
+I cannot take this with me.
+Und womit?
+And with what?
+Es tut sich nichts.
+Nothing is happening.
+Da passiert auch nichts.
+Nothing is happening.
+Gute Idee!
+Good idea!
+Das mache ich dann, wenn ich mit meinem Leben nicht mehr klar komme...
+I will do this if I have nothing to do in the world...
+Der hat keinen Steckdosenanschluss.
+This has no plug for the socket.
+Das passt auch so gut in eine Steckdose.
+That doesn't fit in the plug.
+Die Fernbedienung des Fernsehers.
+The remote control of the television.
+Ich sollte sie nehmen.
+I should take it first.
+Ich möchte mich nicht setzen.
+I don't want to take a seat.
+Ich will es nicht kaputt machen.
+I don't want to brake it.
+Wieder schön sauber.
+Clean again.
+Igitt! Das Kissen ist dreckig.
+Ugh! The cushion is dirty.
+Endlich! Da ist der Schlüssel für meinen Koffer.
+Finally I got the key to my suitcase.
+So fass ich das ganz bestimmt nicht an.
+I definitely won't touch this.
+Der Lappen ist zu trocken um damit zu putzen.
+The cloth is too dry to clean with.
+Auch wenn ich das Kissen desinfiziere, der Dreck ist dann immer noch da.
+Disinficating the cushion wouldn't erase the dirt.
+Ich sollte ihn zuerst nehmen.
+I should pick it up first.
+Flur
+hall
+Fernseher
+television
+Sofa
+sofa
+Foto
+photo
+Vase
+vase
+kleiner Tisch
+small table
+Steckdose
+socket
+Fernbedienung
+remote control
+linkes Sitzkissen
+left seat cushion
+rechtes Sitzkissen
+right seat cushion
+kleiner Schlüssel
+small key
+Nicht wirklich oder?
+Not really?
+An der Garderobe???
+At the wardrobe???
+So dass alle Besucher meine Unterwäsche sehen können?
+So all visitors could look at my underwear?
+BERNARD! Das bekommst du zurück!
+BERNARD! You'll be in trouble for this!
+Lieber nicht, mein bescheuerter Bruder hat da mal wieder alles kontamiert.
+Better not. My dump brother has contaminated everything again.
+Die Tür ist schon zu
+The door's already opened.
+Die Garderobe.
+The wardrobe.
+Die bleibt da hängen.
+It'll stay there.
+Hnngh.
+
+Das hat schon einen Haken. Das braucht nicht noch einen.
+That already has a hook. It doesn't need another one.
+Was hat mein BH an der Garderobe zu suchen?
+Why is my bra hanging at the wardrobe?
+Na warte, Bernard!
+Just you wait, Bernard!
+Wohnzimmer
+sitting room
+Tür>o
+door>o
+Kleiderhaken
+coathook
+weißer BH>p
+white bra>p
+Mom sollte mal wieder die Fenster putzen.
+Mom should clean the windows once again.
+Ich möchte da nicht rein klettern.
+I don't want to climb in there.
+'Willkommen'
+'Welcome'
+Ich will keine dreckige Fußmatte!
+I don't need a filthy food mat!
+Meine Schuhe sind doch sauber.
+My shoes are still clean.
+Das geht hier nicht.
+That doesn't work.
+Da geht es in unsere Garage.
+That's the door to our garage.
+Das Tor ist geschlossen.
+The door is closed.
+Damit bekomme ich das Tor nicht auf.
+I cannot open the door with that.
+Ein Briefkasten.
+A mailbox.
+Den will ich nicht mitnehmen.
+I don't want to take this with me.
+Er beweget sich nicht.
+It doesn't move.
+Dazu sollte ich ihn vorher öffnen.
+I should open it first.
+Nichts drin.
+Nothing's inside.
+Es ich doch nichts drin.
+There's nothing inside.
+Ich habe gerade keine Post zu verschicken.
+I don't need to send some mail.
+Ich möchte das nicht verschicken!
+I don't want to mail this to anybody!
+Ein Briefkastenfähnchen.
+A mailbox flag.
+Das will ich nicht mitnehmen.
+I don't want to take this with me.
+Das kann ich nicht schliessen.
+I cannot close it.
+Ich kann es nicht drücken.
+I cannot push it.
+'An Dave Miller'
+'To Dave Miller'
+Das ist wohl eine Falschlieferung.
+That's properly a misdelivery.
+Da ist eine Bowlingkugel drin.
+There's a bowling ball inside.
+Das ist zu groß zum mitnehmen.
+It's too big to take it with me.
+Ein Busch mit dicken Dornen. Pfui!
+A bush with thick spines. Gross!
+Ich reiße mir an den Dornen noch meine Kleidung auf!
+I would tear my clothes at these thick spines!
+Fußabtreter
+doormat
+Garagetor>o
+door to garage
+Briefkasten>o
+mailbox
+Paket>l
+packet>l
+Busch
+bush
+Briefkasten>c
+mailbox>c
+Fähnchen>u
+flag>u
+Paket>c
+packet>c
+HAAAAAAAALT!
+STOOOOOOOOOP!
+Wartet auf mich!
+Wait for me!
+Ich brauche ihn nicht öffnen.
+I don't need to open it.
+Es ist kein Brief da.
+It's no letter inside.
+Das erkennt man daran, dass die Fahne unten ist.
+I know this because the flag is down.
+spracheDeutsch
+spracheEnglisch
+Ich habe keine Zeit mich auszuruhen.
+I don't have time to chill.
+Das muss nicht gemütlich sitzen.
+That doesn't need to sit cozy.
+Das Glas ist bereits voll.
+The glass already is filled.
+Das muss nicht geputzt werden.
+That doesn't need to get cleaned.
+Die Kondome an der Schale zu reiben bringts echt nicht.
+Touching the condoms with the skin doesn't do anything.
+Lieber nicht. Die Bürste ist viel zu schmal.
+Better not. The toothbrush is way too tiny.
+Kondome sind von Natur aus desinfiziert.
+Condoms are naturally disinficated.
+Ich möchte nicht schwanger werden!
+I really don't want to become pregnant!
+Das muss nicht verhüten.
+That doesn't need to use a contraceptive.
+Die sind schon fruchtig!
+They are already very fruity!
+Das braucht kein Makeup.
+That doesn't need some makeup.
+Das ist nur für den Nagellack.
+That's only to use with nail laquer.
+Und nicht für den Lippenstift.
+And not for a lipstick.
+Der hat einen großen Knopf um das CD-Fach zu öffnen.
+It has a big button to open the disc tray.
+Da braucht man keine Kulimine für.
+You don't need a refiller.
+So dreckig ist der auch wieder nicht.
+It isn't that dirty.
+Das funktioniert auch ohne Batterien ganz gut.
+It even can work without batteries.
+Das kann ich nicht mit dem Zettel benutzen.
+I cannot use this with the note.
+Ich muss mich jetzt nicht abtrocknen.
+I don't need to dry myself now.
+Ich möchte das nicht im Handtuch einwickeln.
+I don't want to wrap this into the towel.
+Mit was?
+With what?
+Das braucht keinen Lukenöffner.
+That's doesn't need a hatch opener.
+Was soll ich damit aufschließen?
+What should I open with that?
+Der Schlüssel passt da nicht rein.
+The key doesn't fit there.
+Mit was soll ich ihn benutzen?
+With what should I use it?
+Aber zum putzen ist der Lappen eh viel zu trocken.
+But indeed the cloth is way to dry to clean up something.
+Igitt! Ich esse doch nicht irgendwelche Früchte die ich nicht kenne!
+Ugh! I don't eat any fruits that I don't know!
+Ich will die Frucht nicht damit zerstampfen.
+I don't want to crush the fruit with that.
+Die Frucht ist zu groß für die Öffnung.
+The fruit is too big to put it inside.
+Es ist leer.
+It's empty.
+Das möchte ich nicht ins Glas tun.
+I don't want to put this in the glass.
+Das braucht keinen roten Touch.
+That doesn't need a red touch.
+Löcher in die Kondome stechen?
+Stab holes in the condoms?
+Soll ich im Urlaub etwa schwanger werden???
+You want me to get pregnant on holidays???
+Das hat schon genug Löcher.
+That already has enough holes.
+Das braucht nicht gepiekst werden.
+That doesn't need to get pricked.
+Die ist ganz schön spitz!
+It's very spiky!
+Das will ich nicht in die Polsterwolle stecken.
+I don't want to put this into the wool.
+Das macht es auch nicht heißer.
+That doesn't become hotter with that.
+Das braucht keine Unterwäsche.
+That doesn't need some underwear.
+Igitt! Wie soll das denn dann bitte aussehen???
+Ugh! How ugly should it look after that?
+Gehts noch???
+Are you kidding me???
+Ich will das nicht kaputt ätzen.
+I don't want to corrode this.
+Das braucht sich nicht ausruhen.
+That doesn't need to chill.
+Wie soll das denn bitte aussehen?
+How should it look after that?
+spracheEnglisch
+
+Oh shit! Es ist schon %d:%d Uhr!
+Oh shit! It's already %d:%d!
+Wanduhr
+clock
+Waschmaschine>u
+washing machine>u
+In die Richtung bewegt sich nichts.
+I cannot move it in this direction.
+Ich werde nicht spülen.
+I won't clean the dishes.
+Dafür ist Mom zuständig.
+That's Mom's task.
+Den mittleren Schrank kann man nicht öffnen.
+The middle cupboard cannot be opened.
+Warum auch immer.
+For whatever reason.
+Oh shit! Es ist schon %d:0%d Uhr!
+Oh shit! It's already %d:0%d!
+Das braucht nicht gepiekst zu werden.
+That doesn't need to get pricked.
+Oh mein Gott.
+Oh my god.
+Was ist denn das für ein Krach?
+What's that horrible noise?
+So kann ich mich doch gar nicht konzentrieren!
+I cannot concentrate myself anymore!
+Das würde den Preis schon gut zerstören.
+That would crush the price enough.
+Nur der Eierkopf braucht halt einen Eierkopfpreis.
+Just the Egghead needs an Egghead-price.
+Das nützt nicht gegen den Eierkopf.
+That's not useful against the Egghead.
+Das kann man nicht mit den Büchern benutzen.
+One cannot use this with books.
+Die Pflanze braucht das nicht wirklich.
+The plant doesn't need this.
+Das kann ich noch anderswo gebrauchen.
+I can use this elsewhere.
+Der Lukenöffner passt nicht ins Fenster.
+The hatch opener doesn't fit with the window.
+Die funktioniert nur mit dem Fernseher.
+That just works with the TV.
+Gute Idee.
+Good idea.
+Leider würden mir die Eltern bestimmt Dateverbot für das Zerstören des Computers aufzwängen.
+Unfortunately my parents would forbade me to date for destroying the computer.
+Warum sollte ich es anhalten?
+Why should I stop it?
+Das passt nicht zu so einem komischen Ding.
+That doesn't fit to the crazy thing.
+Das passt nicht zu dem Kissen.
+That doesn't fit to the pillow.
+Nein. Das bleibt jetzt so.
+No. This stays this way.
+Damit bekomme ich die Luke nicht auf.
+I cannot open the hatch with that.
+Ich möchte die Uhr nicht von der Wand schlagen.
+I don't want to bash the clock down the wall.
+Das kann ich nicht mit der Uhr benutzen.
+I cannot use this with the clock.
+Ich will nicht meinen schönen Spiegel kaputt machen.
+I don't want to crush my beautiful mirror.
+Das kann ich nicht mit dem Spiegel benutzen.
+I cannot use this with the mirror.
+Ich will nicht mit mein Bett zumüllen.
+I don't want to waste my bed.
+Ich möchte das nicht in die Kommode tun.
+I don't want to put this in the commode.
+Ich möchte das nicht in den Schrank tun.
+I don't want to put this in the wardrobe.
+Ich möchte nicht mein schönes Kissen damit verschandeln.
+I don't want to waste my beautiful pillow.
+Ich möchte nicht mein schönes Poster damit verschandeln.
+I don't want to waste my beautiful poster.
+Ich möchte das nicht in der Wanne waschen.
+I don't want to clean this in the tub.
+Um Sachen damit zu waschen, muss man sie in die Luke tun.
+I have to put things in the hatch to clean them with that.
+Das möchte ich nicht in den Spiegelschrank legen.
+I don't want to put this in the mirror cabinet.
+Das sollte reichen.
+That'll be enough.
+Das kann ich nicht mit dem Bild benutzen.
+I cannot use this with the painting.
+Das kann ich nicht mit dem Schlauch benutzen.
+I cannot use this with the garden hose.
+Ich denke das gibt keine gute chemische Mischung.
+I don't think that would result in a good chemical mixture.
+Das macht die Zeitschriften auch nicht interessanter.
+That wouldn't make the magazines much more interesting.
+Da nützt ein leerer Benzinkanister auch nichts.
+An emtpy gas canister wouldn't be useful here.
+Das will ich bestimmt nicht für immer hier festkleben!
+I really don't want to glue it tight here, forever.
+Ich habe das Gefühl, dass das anders funktioniert.
+I have the feeling, that this works in a different way.
+Das passt nicht ins Schlüsselloch.
+That doesn't fit in the key hole.
+Das kann ich nicht mit dem Telefonbuch benutzen.
+I cannot use this with the phone book.
+Der Herd ist nur zur Dekoration.
+The stove is just decoration.
+Da kann man nichts rein tun.
+I cannot put something in there.
+Ich möchte das nicht spülen.
+I don't want to clean dishes.
+Das würde die Zahnbürste schon gut desinfizieren.
+That would disinficate the toothbrush, enough.
+Aber das Plastik könnte schmelzen.
+But the plastic would melt.
+Das hat Bernard schon einmal getan.
+Bernard did this already.
+Und damit die halbe Küche in die Luft gesprengt.
+An he blow up half of the kitchen with that.
+Igitt! Ich mag kein aufgewärmtes Fruchtmus!
+Ugh! I dislike warmed up fruit gruel!
+Igitt! Ich mag keine aufgewärmte Früchte!
+Ugh! I dislike warmed up fruits!
+Das möchte ich nicht in den Schrank legen.
+I don't want to put this in the cupboard.
+'The Tale of Donkey Island'
+
+Das ist bereits sauber genug.
+That's already clean enough.
+Ich sollte ihn zuerst mitnehmen.
+I should pick it up first.
+Es gibt bestimmt einen einfacheren Weg das zu öffnen.
+Surely there's a better way to open it.
+Das will ich nicht mit der Post verschicken.
+I don't want to send this by mail.
+Das will ich nicht in den Busch werfen.
+I don't want to throw this in the bush.
+Der Community von Maniac Mansion Mania
+The community of Maniac Mansion Mania
+sowie allen Fans.
+and all fans.
+]Italienische Übersetzung von MIWorld - miworld.eu]
+]Italian translation of MIWorld - miworld.eu]
+Giocherellone
+
+Utdefault
+
+Blackmonkey
+
+]Triplo beta-test incrociato]
+
+MMM_TEST_BRITNEY
+
+English
+
+Italian
+
+]Italienische Übersetzung:]
+]Italian translation:]
+MIWorld - miworld.eu
+
